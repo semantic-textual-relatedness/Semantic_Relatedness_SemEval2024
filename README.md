@@ -4,7 +4,7 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 
 ## Languages and Datasets
 
-The STR task focuses on the following languages:
+The STR task focuses on the following 14 languages:
 
 
 1. Afrikaans
