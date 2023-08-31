@@ -38,11 +38,11 @@ A starter kit is available to help you create a baseline result. You can open th
 
 To run the Colab Notebook, fork this repo first and click the badge "Open in Colab" on the forked version.
 
-- **Task A**: <a target="_blank" href="https://colab.research.google.com/github/afrisenti-semeval/afrisent-semeval-2023/blob/main/AfriSenti_SemEval_2023_Starter_Notebook_Task_A.ipynb">
+- **Task A**: <a target="_blank" href="https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-- **Task B**: <a target="_blank" href="https://colab.research.google.com/github/afrisenti-semeval/afrisent-semeval-2023/blob/main/AfriSenti_SemEval_2023_Starter_Notebook_Task_B.ipynb">
+- **Task B**: <a target="_blank" href="https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
