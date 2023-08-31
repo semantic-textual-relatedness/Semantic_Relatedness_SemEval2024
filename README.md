@@ -1,5 +1,75 @@
-# SemEval 2024 Task 1: Textual Semantic Relatedness
+# Semantic Textual Relatedness (STR) SemEval 2024 Task 1
 
-Welcome to the official repository for the SemEval Shared Task on Textual Semantic Relatedness!
+---
 
-The Semantic Textual Relatedness is the task of predicting semantic textual relatedness (STR) of sentence pairs. Participants will rank sentence pairs by their closeness in meaning (i.e., their degree of semantic relatedness) in 14 languages predominantly from Africa and Asia. All sentence pairs will have manually determined relatedness scores between 0 (completely unrelated) and 1 (maximally related).
+## Overview
+
+# Semantic Textual Relatedness (STR) SemEval 2024 Task 1
+
+---
+
+## Overview
+
+This repository contains the data and resources for the SemEval 2024 Task 1: Semantic Textual Relatedness (STR). For more information, please visit the [shared task and competition websites](https://semantic-textual-relatedness.github.io).
+
+---
+
+## Languages and Datasets
+
+The STR task focuses on the following languages:
+
+1. English (en)
+2. Spanish (es)
+3. German (de)
+4. French (fr)
+5. Chinese (zh)
+
+---
+
+## Citing This Work
+
+If you use our dataset or participate in the STR task, please cite the following papers:
+
+- STR dataset paper
+- STR SemEval task description paper
+
+```bibtex
+@inproceedings{STRSemEval2024,
+  title = {SemEval-2024 Task 1: Semantic Textual Relatedness (STR)},
+  author = {Your Name and Collaborator's Name},
+  booktitle = {Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)},
+  publisher = {Association for Computational Linguistics},
+  year = {2024}
+}
+
+This repository contains the data and resources for the SemEval 2024 Task 1: Semantic Textual Relatedness (STR). For more information, please visit the [shared task and competition websites](https://semantic-textual-relatedness.github.io).
+
+---
+
+## Languages and Datasets
+
+The STR task focuses on the following languages:
+
+1. English (en)
+2. Spanish (es)
+3. German (de)
+4. French (fr)
+5. Chinese (zh)
+
+---
+
+## Citing This Work
+
+If you use our dataset or participate in the STR task, please cite the following papers:
+
+- STR dataset paper
+- STR SemEval task description paper
+
+```bibtex
+@inproceedings{STRSemEval2024,
+  title = {SemEval-2024 Task 1: Semantic Textual Relatedness (STR)},
+  author = {Your Name and Collaborator's Name},
+  booktitle = {Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)},
+  publisher = {Association for Computational Linguistics},
+  year = {2024}
+}
