@@ -10,11 +10,22 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 
 The STR task focuses on the following languages:
 
-1. English (en)
-2. Spanish (es)
-3. German (de)
-4. French (fr)
-5. Chinese (zh)
+
+1. Afrikaans
+2. Algerian Arabic
+4. Amharic
+5. English
+6. Hausa
+7. Indonesian
+8. Hindi
+9. Kinyarwanda
+10. Marathi
+11. Modern Standard Arabic
+12. Moroccan Arabic
+13. Punjabi
+14. Spanish
+15. Telugu
+
 
 ---
 
