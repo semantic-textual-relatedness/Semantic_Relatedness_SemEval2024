@@ -22,22 +22,30 @@ The STR task focuses on the following 14 languages:
 14. Spanish
 15. Telugu
 
-
 ---
+
+## Dataset
+
+The STR dataset is available in the data folder or can be downloaded from Hugging Face.
+
+Subtasks
+
+- For Subtask A: Check SubtaskA folder
+- For Subtask B: Check SubtaskB folder
+
+
+## Shared Task Starter Kit
+
+A starter kit is available to help you create a baseline result. You can open the starter kit in a Colab Notebook and run the baseline system. The resultant experiment can be submitted to Codalab to ensure the submission format is clear.
+
+To run the Colab Notebook, fork this repo first and click the badge "Open in Colab" on the forked version.
 
 
 ## Citing This Work
 
 If you use our dataset or participate in the STR task, please cite the following papers:
 
-- STR dataset paper
-- STR SemEval task description paper
+- STR dataset paper: coming soon 
+- STR SemEval task description paper: coming soon 
 
-```bibtex
-@inproceedings{STRSemEval2024,
-  title = {SemEval-2024 Task 1: Semantic Textual Relatedness (STR)},
-  author = {Your Name and Collaborator's Name},
-  booktitle = {Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)},
-  publisher = {Association for Computational Linguistics},
-  year = {2024}
-}
+
