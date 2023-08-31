@@ -22,8 +22,6 @@ The STR task focuses on the following 14 languages:
 14. Spanish
 15. Telugu
 
----
-
 ## Dataset
 
 The STR dataset is available in the data folder or can be downloaded from Hugging Face.
