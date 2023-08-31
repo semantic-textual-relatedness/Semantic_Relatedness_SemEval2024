@@ -18,6 +18,7 @@ The STR task focuses on the following languages:
 
 ---
 
+
 ## Citing This Work
 
 If you use our dataset or participate in the STR task, please cite the following papers:
@@ -33,19 +34,3 @@ If you use our dataset or participate in the STR task, please cite the following
   publisher = {Association for Computational Linguistics},
   year = {2024}
 }
-```bibtex
-This repository contains the data and resources for the SemEval 2024 Task 1: Semantic Textual Relatedness (STR). For more information, please visit the [shared task and competition websites](https://semantic-textual-relatedness.github.io).
-
----
-
-## Languages and Datasets
-
-The STR task focuses on the following languages:
-
-1. English (en)
-2. Spanish (es)
-3. German (de)
-4. French (fr)
-5. Chinese (zh)
-
----
