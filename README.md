@@ -36,7 +36,7 @@ Subtasks
 
 A starter kit is available to help you create a baseline result. You can open the starter kit in a Colab Notebook and run the baseline system. The resultant experiment can be submitted to Codalab to ensure the submission format is clear.
 
-To run the Colab Notebook, fork this repo first and click the badge "Open in Colab" on the forked version.
+To run the Colab Notebook, click the badge "Open in Colab".
 
 
 - **Simple Co-Occurance Baseline for Semantic Relatedness**: <a target="_blank" href="https://colab.research.google.com/github/shmuhammadd/semantic_relatedness/blob/main/Simple_English_Baseline_v2.ipynb">
