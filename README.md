@@ -10,7 +10,7 @@ The STR task focuses on the following 14 languages:
 1. Afrikaans
 2. Algerian Arabic
 4. Amharic
-5. English
+5. English (released)
 6. Hausa
 7. Indonesian
 8. Hindi
@@ -18,9 +18,9 @@ The STR task focuses on the following 14 languages:
 10. Marathi
 11. Modern Standard Arabic
 12. Moroccan Arabic
-13. Punjabi
+13. Punjabi  (released)
 14. Spanish
-15. Telugu
+15. Telugu  (released)
 
 ## Dataset
 
