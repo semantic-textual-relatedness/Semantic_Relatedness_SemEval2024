@@ -24,7 +24,7 @@ The STR task focuses on the following 14 languages:
 
 ## Dataset
 
-The STR dataset is available in the data folder or can be downloaded from Hugging Face.
+The STR dataset is available in the data folder or can be downloaded from Hugging Face (coming soon).
 
 Subtasks
 
