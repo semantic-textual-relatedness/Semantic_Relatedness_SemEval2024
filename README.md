@@ -2,6 +2,10 @@
 
 This repository contains the data and resources for the SemEval 2024 Task 1: Semantic Textual Relatedness (STR). For more information, please visit the [shared task and competition websites](https://semantic-textual-relatedness.github.io).
 
+[Dataset](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#dataset) | 
+[Languages](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#languages) | 
+[Shared Task Starter Kit](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#shared-task-starter-kit) | 
+[Citing This Work](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work)
 
 ## Dataset
 
