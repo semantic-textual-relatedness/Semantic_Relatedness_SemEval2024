@@ -30,10 +30,7 @@ Subtasks
 
 - For Subtask A: [SubtaskA folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Task%20A)
 - For Task B: [TaskB folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Task%20B)
-
-- For Subtask B: Check SubtaskB folder
-- For Subtask B: Check SubtaskB folder
-
+- For Task C: [TaskC folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Task%20C)
 
 
 ## Shared Task Starter Kit
