@@ -2,6 +2,18 @@
 
 This repository contains the data and resources for the SemEval 2024 Task 1: Semantic Textual Relatedness (STR). For more information, please visit the [shared task and competition websites](https://semantic-textual-relatedness.github.io).
 
+
+## Dataset
+
+The STR dataset is available in the data folder or can be downloaded from Hugging Face (coming soon).
+
+Subtasks
+
+- For Track  A: [TrackA folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20A)
+- For Track  B: [TrackB folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20B)
+- For Track  C: [TrackC folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20C)
+
+
 ## Languages
 
 The STR task focuses on the following 14 languages:
@@ -21,17 +33,6 @@ The STR task focuses on the following 14 languages:
 13. Punjabi
 14. Spanish  (released)
 15. Telugu (released)
-
-## Dataset
-
-The STR dataset is available in the data folder or can be downloaded from Hugging Face (coming soon).
-
-Subtasks
-
-- For Track  A: [TrackA folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20A)
-- For Track  B: [TrackB folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20B)
-- For Track  C: [TrackC folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20C)
-
 
 ## Shared Task Starter Kit
 
