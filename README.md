@@ -7,7 +7,7 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 The STR task focuses on the following 14 languages:
 
 
-1. Afrikaans
+1. Afrikaans (released)
 2. Algerian Arabic
 4. Amharic (released)
 5. English (released)
@@ -19,7 +19,7 @@ The STR task focuses on the following 14 languages:
 11. Modern Standard Arabic
 12. Moroccan Arabic (released)
 13. Punjabi
-14. Spanish
+14. Spanish  (released)
 15. Telugu (released)
 
 ## Dataset
