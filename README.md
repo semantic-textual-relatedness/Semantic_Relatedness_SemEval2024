@@ -28,7 +28,7 @@ The STR dataset is available in the data folder or can be downloaded from Huggin
 
 Subtasks
 
-- For Subtask A: Check SubtaskA folder
+- For Subtask A: [SubtaskA folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Task%20A)
 - For Subtask B: Check SubtaskB folder
 - For Subtask B: Check SubtaskB folder
 
