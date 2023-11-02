@@ -7,8 +7,6 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 
 The STR dataset is available in the data folder or can be downloaded from Hugging Face (coming soon).
 
-Subtasks
-
 - For Track  A: [TrackA folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20A)
 - For Track  B: [TrackB folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20B)
 - For Track  C: [TrackC folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20C)
