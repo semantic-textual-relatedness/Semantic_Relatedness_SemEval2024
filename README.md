@@ -21,20 +21,20 @@ The STR dataset is available in the data folder or can be downloaded from Huggin
 The STR task focuses on the following 14 languages:
 
 
-1. Afrikaans (released)
-2. Algerian Arabic (released)
-4. Amharic (released)
-5. English (released)
-6. Hausa (released)
+1. Afrikaans (_afr_ released)
+2. Algerian Arabic (_arq_ released)
+4. Amharic (_amh_ released)
+5. English (_eng_ released)
+6. Hausa (_hau_ released)
 7. Indonesian
 8. Hindi
 9. Kinyarwanda
-10. Marathi (released)
-11. Modern Standard Arabic
-12. Moroccan Arabic (released)
+10. Marathi (_mar_ released)
+11. Modern Standard Arabic (_arb_ released)
+12. Moroccan Arabic (_ary_ released)
 13. Punjabi
-14. Spanish  (released)
-15. Telugu (released)
+14. Spanish (_esp_ released)
+15. Telugu (_tel_ released)
 
 ## Shared Task Starter Kit
 
