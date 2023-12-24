@@ -43,7 +43,7 @@ A starter kit is available to help you create a baseline result. You can open th
 To run the Colab Notebook, click the badge "Open in Colab".
 
 
-- **Simple Co-Occurance Baseline for Semantic Relatedness**: <a target="_blank" href="https://colab.research.google.com/github/shmuhammadd/semantic_relatedness/blob/main/Simple_English_Baseline_v2.ipynb">
+- **Simple Co-occurrence Baseline for Semantic Relatedness**: <a target="_blank" href="https://colab.research.google.com/github/shmuhammadd/semantic_relatedness/blob/main/Simple_English_Baseline_v2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
