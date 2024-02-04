@@ -19,11 +19,13 @@ def calculate_dice_coefficient(sentence1: str, sentence2: str) -> float:
 def main():
     parser = ArgumentParser()
     parser.add_argument("--dataset_dir", type=str, default="STS-B")
+    parser.add_argument("-data_split", type=str, default="test")
+    
 
     args = parser.parse_args()
-
+    data_split = args.data_split
     lang_name = args.dataset_dir.split("/")[1]
-    test_data_path = os.path.join(args.dataset_dir, f"{lang_name}_test.csv")
+    test_data_path = os.path.join(args.dataset_dir, f"{lang_name}_{data_split}.csv")
     results_dir = os.path.join("results_lexical", lang_name)
     if not os.path.exists(results_dir):
         os.makedirs(results_dir)

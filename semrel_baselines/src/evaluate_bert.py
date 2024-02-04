@@ -49,12 +49,14 @@ def main():
     parser.add_argument("--dataset_dir", type=str, default="STS-B")
     parser.add_argument("--model_name", type=str, default="xlm-roberta-base")
     parser.add_argument("-embedding_type", type=str, default="bert")
+    parser.add_argument("-data_split", type=str, default="test")
 
     args = parser.parse_args()
     model_name = args.model_name
     lang_name = args.dataset_dir.split("/")[1]
+    data_split = args.data_split
 
-    test_data_path = os.path.join(args.dataset_dir, f"{lang_name}_test.csv")
+    test_data_path = os.path.join(args.dataset_dir, f"{lang_name}_{data_split}.csv")
     results_dir = os.path.join("results", lang_name)
     if not os.path.exists(results_dir):
         os.makedirs(results_dir)
