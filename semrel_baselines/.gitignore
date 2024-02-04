@@ -1,0 +1,6 @@
+*__pycache__* .DS_Store
+*.npy
+*__pycache__
+*data/
+*models/
+*analysis_files/

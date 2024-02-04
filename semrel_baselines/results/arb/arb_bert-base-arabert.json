@@ -1,0 +1,6 @@
+{
+    "spearman_correlation": 0.30132281954092416,
+    "model_name": "bert-base-arabert",
+    "lang_name": "arb",
+    "number_samples": 595
+}
