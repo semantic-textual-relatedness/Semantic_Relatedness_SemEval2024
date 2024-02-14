@@ -1,0 +1,445 @@
+PairID,Text,Score
+kin_test_00001,"Kuba yarize kaminuza mu ishami ry’iyobokamana cyangwa irindi shami ku rwego rwa kaminuza rifitanye isano n’umurimo yiyamamariza gukora.
+Kuba afite impamyabumenyi ya Kaminuza mu ishami ry’ubumenyi rifitanye isano n’ubukungu, icungamutungo, imiyoborere no gucunga abakozi.",0.47
+kin_test_00002,"Rutsinga Jacques, uyobora Akarere ka Kamonyi avuga ko gutoza urubyiruko amateka y'u Rwanda bizakomeza gukorerwa mu itorero.
+Gahunda yo kwigisha urubyiruko ukuri ku mateka y'u Rwanda n'imvano ya Jenoside yakorewe abatutsi ngo bizakomeza gukorerwa muri gahunda y'itorero ry'igihugu.",0.47
+kin_test_00003,"Umunyamabanga Nshingwabikorwa w'Urwego rw'igihugu rushinzwe intwari z'igihugu, imidari n'impeta by'ishimwe, Kamari Karegesa Ignatius, atangaza ko batangiye gukora ubushakashatsi ku banyarwanda n'abanyamahanga baranzwe n'ubutwari (...)
+Ashobora no kugana Urwego rw'igihugu rushinzwe intwari z'igihugu, imidari n'impeta by'ishimwe, aho rukorera hafi ya Rwandex, mu nyubako ""Le Prestige"".",0.59
+kin_test_00004,"Idi Basengo ni umunyabugeni akaba n’umushushanyi ukiri muto kuko afite imyaka 22 y’amavuko.
+Ku myaka 18 yegukanye miliyoni 1 FRW kubera ubuhanga afite mu gushushanya -AMAFOTO Shema Karani Wiseman ni umunyabugeni akaba n’umushushanyi ukiri muto.",0.5
+kin_test_00005,"Mu kiganiro yagiranye na IGIHE, uyu muhanuzi yavuze ko gusaba abantu amafaranga atari ‘business' ahubwo abantu benshi ngo baziko ibintu by'Imana ari ubuntu.
+Mu kiganiro cyihariye yagiranye na IGIHE, Rev Karuranga, yavuze ko urubyiruko rwinshi rubeshywa ko Imana irujyanye hanze ngo niho izaruhera umugisha kandi atari byo.",0.38
+kin_test_00006,"Uyu mugore yibarutse abahungu babiri n'umukobwa, kuri ubu ngo bose bameze neza nk'uko bitangazwa na Dr Ndizeye Ntwali, Umuyobozi w'Ibitaro bya Muhima.
+Umuyobozi w'ibitaro bya Muhima, Dr Ndizeye Ntwali, yavuze ko bishimiye iki gikorwa, abasaba kuzagaruka.",0.41
+kin_test_00007,"Minisitiri Dr Ngamije yavuze ko uwo muti ufasha mu kugabanya ubukana bwa Covid-19 “kugira ngo turebe ko twagabanya impfu.”
+Urukingo ruri hafi Minisitiri Dr Ngamije yavuze ko hejuru y’umuti ugabanya ubukana bwa Covid-19, u Rwanda ruri gushaka uburyo rwabona urukingo mu minsi ya vuba.",0.66
+kin_test_00008,"Umuyobozi w’Urwego rw’Imiyoborere (RGB), Prof Shyaka Anastase, yavuze ko iyi ngingo izitabwaho mu itegeko ririmo kuvugururwa kandi yizeye ko izaba ingirakamaro.
+Icyo gihe kandi Umuyobozi w’Urwego rw’Imiyoborere (RGB), Dr Usta Kaitesi, yavuze ko ibibazo by’imiyoborere biri muri ADEPR ubuyobozi bw’itorero bwiteguye kubikemura neza.",0.44
+kin_test_00009,"Nubwo u Rwanda rwakoraga ibishoboka byose ngo rushimishe Koreya ya Ruguru, byakorwaga mu ibanga rikomeye ngo ibihugu bya Amerika n’u Burayi bitabimenya.
+Ibihugu bya Amerika n’u Burayi biciye muri Ambasade zabyo i Kigali, byaje kuvumbura ko u Rwanda ruri mu bushuti bwihariye na Koreya ya Ruguru.",0.47
+kin_test_00010,"Karuranga yakomeje avuga ko kwirukana Zigirinshuti ADEPR nta tegeko yishe ngo kuko yarengeje iminsi umunani umukozi yihanangirizwa cyangwa agasabwa ibisobanuro.
+Karuranga ati ""Nta tegeko twishe kuko yarengeje iminsi umunani itegeko rivuga ko umukozi yihanangirizwa.",0.91
+kin_test_00011,"Aho ikoranabuhanga riziye uburyo bantu baganaga Iposita bukagabanuka, bagakoresha internet n'ubutumwa bugufi bwo muri za telefone (...)
+Aho ikoranabuhanga riziye uburyo bantu baganaga Iposita bukagabanuka, bagakoresha internet n'ubutumwa bugufi bwo muri za telefone (sms) cyangwa bagahamagarana, benshi babona Iposita nk'iyazimye.",0.81
+kin_test_00012,"Tariki 3 Ukuboza 2017 nibwo DJ Cox azasaba anakwe Umutoni Huguette, naho tariki 17 Ukuboza 2017 basezerane imbere y’Imana.
+Imikino ya CECAFA iteganyijwe kubera muri Kenya kuva tariki ya 3 kugera 17 Ukuboza 2017 aho buri tsinda ririmo amakipe",0.16
+kin_test_00013,"Umurambo wa nyakwigendera wahise ujyanwa mu buruhukiro bw'ibitaro bikuru bya ADEPR Nyamata, numara gukorerwa isuzuma ukaba uzashyikirizwa abo mu muryango we bakawushyingura.
+Umurambo wa nyakwigendera wahise ujyanwa mu buruhukiro bw'ibitaro bya ADEPR Nyamata ukazahavanwa ujyanwa ushyingurwa.",0.91
+kin_test_00014,"Muri uru rugendo, abanyeshuri basobanuriwe uko u Rwanda rwagiye rwaguka aho baganirijwe n'umusaza Gashumba Elie, wavutse mu mwaka
+Gashumba yavuze ko u Rwanda rwagiye rwaguka kubera ibitero abami b'u Rwanda bagenda bagaba bakigarurira uduce dutandukanye tw'izari izindi mpugu ubu hakaba ari mu Rwanda.",0.53
+kin_test_00015,"Uwagaba uvuka i Rwamagana yateye intambwe ya mbere yandika igitabo cy’amapaji 170 yise ‘A Hundred days in marriage’ kivuga ku bigwi n’amateka y’umugore we.
+Akimara kumurika ‘A Hundred days in marriage’, Kaminuza yigamo i Varsovie muri Pologne yamugeneye igihembo cy’umunyeshuri wakoze ikintu gikomeye.",0.84
+kin_test_00016,"Umuyobozi w'Akarere ka Rulindo wungirije ushinzwe ubukungu n'iterambere, Mulindwa Prosper, yashimiye abagize uruhare bose mu kwesa umuhigo wo kubona inyubako za SACCO.
+Umuyobozi w'Akarere ka Rusizi wungirije ushinzwe ubukungu Kankindi Leoncie , yabwiye ikinyamakuru Izuba Rirashe ko uyu munyeshuli, asanzwe ahagarariye abanyeshuri b'Abanyarwanda mu Burundi.",0.25
+kin_test_00017,"Umuhango wo kwibuka abana bishwe muri Jenoside yakorewe Abatutsi mu karere ka Rutsiro waranzwe ahanini n'impanuro zitandukanye zatanzwe n'abana ubwabo baziha bagenzi babo.
+Kwibuka abana bishwe muri Jenoside mu karere ka Rutsiro byabanjirijwe no gusura ndetse no kurambika indabo ku rwibutso rwa Jenoside yakorewe Abatutsi rwa Congo Nil.",0.69
+kin_test_00018,"Iyi filime kugeza ubu irizihiza imyaka itandatu itangiye kwerekanwa kuri Televiziyo y’u Rwanda.
+Kugeza ubu iyi filime imaze gusohora uduce turenga 600 dukubiye muri saisons zirenga 20, zaciye kuri Televiziyo y’u Rwanda.",0.72
+kin_test_00019,"Hari ingero zagiye zigaragara kuri bamwe mu barokotse Jenoside yakorewe Abatutsi mu 1994, bahawe amatungo ariko ntamare kabiri.
+Bamwe mu barokotse Jenoside yakorewe Abatutsi basanga kuba ba nyir'insengero bazivugurura ariko ntibahasige ikigaragaza ko habereye ubwicanyi bishobora kuzasibanganya ibimenyetso n'amateka yahabereye.",0.38
+kin_test_00020,"Arsène Tuyi ni umuhanzi ukora umurimo wo kuramya no guhimbaza Imana muri Shekinah Worship Team umaze kubaka ibirindiro mu muziki waririmbiwe Uwiteka.
+Yabaye muri Shining Stars na Shekinah Worship Team ndetse ari mu batangije itsinda ryiswe Salvation Proclaimers ryateguraga ibitaramo byo kuramya no guhimbaza Imana.",0.38
+kin_test_00021,"Mukabarisa yakomeje avuga ko muri iki gihe iyi mvugo itagikoreshwa cyane ngo kuko muri aka gace hatuwe n ‘abantu benshi kandi hakaba hanaturuka abageni.
+Yakomeje avuga ko icyizere abantu bafite cyakomeza bagakora kandi barinda umutekano wabo kuko ngo ari wo pfundo rya byose.",0.41
+kin_test_00022,"Ikiribwa cya gatandatu gifasha ubwonko gukora neza ni inyama y'umwijima w'inka cyangwa w'inkoko, kuko izo nyama zigira uruhare rukomeye mu gutanga umutuzo mu mikorere y'ubwonko.
+Ikiribwa cya cumi gifasha ubwonko gukora neza ni imboga z'ubwoko bwose kuko zibitsemo intungamubiri ziha ubwonko imbaraga nkenerwa mu mikorere myiza yabwo.",0.53
+kin_test_00023,"U Rwanda n’u Bushinwa bifitanye umubano umaze imyaka isaga 46, u Bushinwa bukaba bumaze gutera inkunga ibikorwa n’imishinga itandukanye mu Rwanda.
+U Rwanda n’u Buhinde bifitanye umubano ukomeye mu ngeri zitandukanye.",0.03
+kin_test_00024,"U Rwanda rwahise rufata umwanya wa mbere mu itsinda B kuko rwari rwatangiye rutsinda Sudani y’Epfo ibitego 3-0 mu mukino wabaye ku Cyumweru.
+U Rwanda rurasabwa gutsinda uwo mukino kugirango rubone umwanya wa mbere cyangwa se uwa kabiri, bityo muri ½ ruzakine n'ikipe yoroshye.",0.5
+kin_test_00025,"Uyu musore yasinye amasezerano y’imyaka 2 ku munsi w’ejo taliki ya 31 Kanama 2017, aho yahawe akayabo ka miliyoni 12 z’amafaranga y’u Rwanda
+Ubwo bukangurambaga bwatangiye muri Kanama buzageza mu Ukuboza, ababwitabira babasha kwegukana ibihembo bifite agaciro muri miliyoni z’amafaranga y’u Rwanda birimo moto, imirasire y’izuba n’ibindi.",0.41
+kin_test_00026,"Wemejwe n’Ishami ry’Umuryango w’Abibumbye ryita ku Buzima (OMS) mu 2015, ko ukora neza mu kurinda abantu kwandura HIV ndetse no kugabanya ubukana ku bayisangaywe.
+Icyorezo cya COVID-19 kizatinda gucika ku isi (OMS) Ishami ry’Umuryango w’Abibumbye ryita ku Buzima (OMS/WHO) ryaburiye isi yose ko icyorezo cya coronavirus kitazarangira vuba.",0.25
+kin_test_00027,"Umunsi mukuru wa Eid al Adha Abayisilamu bawukora hashize iminsi ibiri umutambagiro mutagatifu ubera i Maka buri mwaka utangiye.
+Umunsi wa Eid al Adha utandukanye n’uwa Eid al-Fitr uba nyuma y’igisibo cya Ramadhan kimara iminsi 29 cyangwa mirongo itatu.",0.54
+kin_test_00028,"Minisitiri Biruta, yavuze ko gucana Urumuri Rutazima bigaragaza kwibuka Jenoside yakorewe Abatutsi, kugarurira agaciro abazize Jenoside ndetse n'u Rwanda muri rusange.
+Igikorwa cyo kwibuka abazize Jenoside yakorewe Abatutsi mu Rwanda kiba buri mwaka mu gihugu cy'Ubwongereza mu ntara zitandukanye.",0.62
+kin_test_00029,"Ballon d’or ni igihembo bahemba umukinnyi witwaye neza kurusha abandi ku isi hose mu mupira w’amaguru, nyamara mu ntangiro zacyo si uko byari bimeze.
+Mu mwaka wa 2007, Ballon d’or yaje kwagura imipaka noneho ikazajya ihembwa umukinnyi wese witwaye neza aho yaba akomoka hose.",0.78
+kin_test_00030,"Mu by’ukuri amasezerano ari hagati y’u Burusiya na Centrafrique ntarashyirwa ahagaragara ari nabyo bitera inkeke u Bufaransa, u Burayi na Leta Zunze Ubumwe za Amerika.
+Iyo migirire y’u Burusiya yamaganywe cyane n’ibihugu by’amahanga birimo u Burayi na Amerika.",0.47
+kin_test_00031,"Horaho Life ikorera kwa Rubangura muri Etage ya 3 mu muryango wa
+Uramutse uyikeneye wahamagara kuri 0789433795/0726355630 cyangwa ukaba wagana Horaho Life aho ikorera kwa Rubangura muri Etage ya 3, mu muryango wa",0.75
+kin_test_00032,"Aha hari amwe mu makosa akunze kugaragara mu gihe abantu barimo gukora imibonano mpuzabitsina ndetse akenshi akanashanisha abari mu rukundo.
+Impamvu zitera umugore kutagira ubushake bwo gukora imibonano mpuzabitsina Muri iki gihe abantu benshi bahura n’ingorane zitandukanye,haba uburwayi ndetse n’imikorere mibi y’umubiri.",0.5
+kin_test_00033,"Easter Celebration Concert 2017 yabereye muri Hotel Radisson Blu kuri iki cyumweru tariki 16 Mata
+Aje mu gitaramo Easter Celebration azafatanyamo na Patient Bizimana kuri iki cyumweru tariki 1 Mata 2018 ku munsi wa Pasika.",0.56
+kin_test_00034,"Kubira ibyuya bikabije bishobora kuba indwara yizanye, iturutse ku bundi burwayi waba ufite, ikibazo mu mikorere y’umubiri cg se ikoreshwa ry’imiti.
+Kubira ibyuya ahantu hose icyarimwe; ibi akenshi biterwa n’imikorere mibi y’ingingo zishinzwe kugena ubushyuhe mu mubiri, cg se bishobora guterwa n’indi ndwara ushobora kuba ufite.",0.75
+kin_test_00035,"Barabazanya bati ""Ibyo Nkebya na Burabyo bavuganira mu bwiherero ntitubimenye ni ibiki?""
+Bahamagara Nkebya na Burabyo mu giterane, barababaza bati ""Ibyo muhora muvugana mwiherereye ntimubiduhingukirize ni ibiki?""",0.69
+kin_test_00036,"Iyi nkuru Kigali Today ikesha Polisi y’u Rwanda ikomeza ivuga ko aba bagabo bombi bemera ko amafaranga bafatanywe bayakiriye bakanayakoresha batazi ko ari amahimbano.
+Abo bacuruzi bafatanywe magendu Polisi ivuga ko umwe muri abo bacuruzi yashatse guhita atanga ruswa ya miliyoni y’amafaranga y’u Rwanda kugira ngo arekurwe.",0.44
+kin_test_00037,"Ese wari uzi ko hari amasaha yo gusinzira utagomba kurenza cyangwa ngo uyajye hasi bitewe n’imyaka yawe?
+Nkuko tubikesha urubuga sleepfoundation, Dore hano imbonerahamwe igaragaza amasaha utagomba kurenza ndetse n’ayo utagomba kujya hasi bitewe n’ikigero cy’imyaka yawe.",0.94
+kin_test_00038,"Dr Bideri Diogene yavuze ko aka gace gafite amateka yihariye kandi akomeye bitewe n'uko abayobozi baba abagisevile na gisirikare boyoboraga igihugu bose ariho baturuka.
+Dr Bideri Diogene yagize ati: ""amateka y'aka karere (mu cyari komine Mukingo) arakomeye cyane bitewe n'uko ariho abayobozi bose bavukaga.",0.72
+kin_test_00039,"Iki ni igihe kimeze nko gucura, aho umubiri utongera gutuma hari intanga ikura.
+Kandi nanone nkuko twabivuze bishobora (iyo bikoreshejwe igihe) gutuma umubiri utongera gutuma hari intanga ikura, bigatera ubugumba bwa burundu.",0.62
+kin_test_00040,"Byusa yavuze ko biteguye gukorana na buri wese ubyifuza, ‘kuko iyi mashini ishobora gukoreshwa ahantu hahurira abantu benshi nko ku mashuri, inzu z’amaguriro, insengero n’ibindi’.
+Jean Paul Bitega, yavuze ko buri cyumweru bakiraga abantu 15 barwaye impyiko, bikabagora kubavura kuko bari benshi ugereranyije n’imashini zari zihari.",0.31
+kin_test_00041,"Dore ibibazo 10 muba mugomba kwibaza mbere yo gufata umwanzuro wo gutandukana.
+Ibibazo 5 ugomba kubanza kwibaza mbere yo gufata umwanzuro wo gushaka umuore cyangwa umugabo kugira ngi bitazagupfana.",0.44
+kin_test_00042,"Ku wa Gatandatu tariki 05 Ukuboza 2020 nibwo habaye umuhango wo gusaba no gukwa imbere y’imiryango.
+Umuhango wo gusaba no gukwa ndetse no gusezerana imbere y’amategeko byari byabaye tariki 20 Nyakanga",0.59
+kin_test_00043,"Guverineri w'intara y'Amajyaruguru, Bosenibamwe Aime, we yavuze ko hakenewe abayobozi batemera ko Abanyarwanda bapfa bwa kabiri.
+Guverineri w'Intara y'Amajyaruguru, Bosenibamwe Aime, wari witabiriye iri huriri yashimiye Avega y'Intara y'Amajyaruguru ku igenamigambi ritanga icyizere ku banyamuryango.",0.62
+kin_test_00044,"Ambasaderi wa Israel mu Rwanda, Ron Adam, abinyujije kuri Twitter yavuze ko icyo cyemezo cyafashwe ku nyungu z’ibihugu byombi, Israel n’u Rwanda.
+Ambasaderi wa Israel mu Rwanda, Ron Adam, yatangaje ko gufunga imirimo ya ambasade biri mu nyungu z'ibihugu byombi",0.91
+kin_test_00045,"Amen Tumeze nk'abigishwa ba Yezu ubwo bari mu nzira igana Emawusi Padiri Victor AMERIKA
+Amen Padiri Victor AMERIKA Yezu yasigiye abigishwa be umurage w'urukundo ari nacyo kimenyetso kizerekana abamwizeye",0.44
+kin_test_00046,"Ikangurira abantu kandi kwirinda kugama imvura munsi y’ibiti by’inganzamarumbu (ibiti binini cyane) kuko nabyo byagaragaye ko bikunda kwibasirwa n’inkuba.
+Aranakangurira abantu kwirinda kwitwikira imitaka ifite ikirindi cy’icyuma kuko nabyo biri mu bizirana n’inkuba.",0.59
+kin_test_00047,"Byageze ku mugoroba Yezu akoranya intumwa ze ngo abasezereho, akenyera igishura atangira kuboza ibirenge, barangije asangira nabo kandi abasigira umurage wo gukundana.
+Umurage wo guca bugufi Yezu Kristu yari Umwigisha, yari Umwami, yari Umutware ariko yaciye bugufi atangira koza intumwa ze ibirenge!",0.66
+kin_test_00048,"Aha ni mu isoko ryo kuri Base aho abaturage bo mu murenge wa Gashenyi bajya kugurisha imyaka yabo.
+Ubusanzwe abaturage batuye mu murenge wa Gashenyi barema isoko rya Base rirema gatatu mu cyumweru hamwe n'iryo muri santere ya Gakenke rirema kabiri mu cyumweru.",0.72
+kin_test_00049,"Umuyobozi w'Akarere ka Rusizi wungirije ushinzwe ubukungu Kankindi Leoncie , yabwiye ikinyamakuru Izuba Rirashe ko uyu munyeshuli, asanzwe ahagarariye abanyeshuri b'Abanyarwanda mu Burundi.
+Umuyobozi w'Akarere ka Karongi wungirije ushinzwe ubukungu, Hakizimana Sebastien , atangiza ku mugaragaro ukwezi k'urubyiruko.",0.19
+kin_test_00050,"Alvin, izina ry'umuntu uzi kwihagararaho Alvin ni izina rihabwa umwana w'umuhungu, rifite inkomoko mu Kidage rikaba risobanura ""uwiyubashye"".
+Enos, izina ry’abantu batsimbarara ku migenzo gakondo Enos cyangwa Enosh ni izina rihabwa umwana w’umuhungu rifite inkomoko mu Giheburayo rikaba risobanura ‘ikiremwamuntu’.",0.25
+kin_test_00051,"Minisitiri Nsengimana yavuze ko urubyiruko rugomba gukoresha ikoranabuhanga mu byo rukora , ndetse na aho bafite ikibazo bagasaba Minisiteri ayoboye ikabibafashamo.
+Minisitiri Nsengimana yavuze ko hakenewe ingufu mu gukoresha ikoranabuhanga urwo rubyiruko rugahuzwa n’abashoramari, bombi bakabyungukiramo, ngo ariko kamaro ka Youth Connect.",0.81
+kin_test_00052,"Nyuma y’uyu mukino Rayon SPorts yahise inganya amanota na Mukura na APR FC ziyiri imbere ariko zose zikaba zifite ibirarane
+APR FC isuye aba basirikare bamugariye ku rugamba mu gihe habura amasaha make ngo ihure na Rayon Sports mu mukino wo guhatanira igikombe cy'Intwari.",0.34
+kin_test_00053,"Witandukira kubijyanye n'iyi nkuru; wikwandika ibisebanya, ibyamamaza cyangwa bivangura; wikwandika ibiteye isoni, Wifuza kubona byihuse ibivugwa/ibisubizo ku gitekerezo cyawe, andika email yawe ahabugenewe.
+bivangura; wikwandika ibiteye isoni, Wifuza kubona byihuse ibivugwa/ibisubizo ku gitekerezo cyawe, andika email yawe ahabugenewe.",0.47
+kin_test_00054,"Minisitiri ufite Umuco mu nshingano ze, Uwacu Julienne yanditse yisegura kuri Sauti Sol ndetse yizeza iri tsinda ko ibyabaye bitazasubira.
+Sauti Sol yakiriye imbabazi za Minisitiri Uwacu Julienne",0.88
+kin_test_00055,"Iri tsinda ryo mu Bwongereza rishamikiye kuri Hillsong United Worship yo muri Australia.
+Iri tsinda rishamikiye kuri Hillsong United Worship Band yakomotse ku rusengero rwa Hillsong Church ruherereye mu mujyi wa Sydney muri Australia.",0.81
+kin_test_00056,"Nuko Paccy aramusubiza ati:""sha Media wimbwira ibya Cyusa n’ukuntu akomeje kundwaza umutwe ngo hari umuntu ategereje kandi yanze kumumbwira!""
+maze Paccy aramusubiza ati:""uvura abandi indwara zo mumutwe gusa hari umuntu nzi ukunze kukuba hafi kandi na we agiye gusara kubera wowe!",0.53
+kin_test_00057,"Nziyonsenga (uw'imbere) mu kazu karimo turbine itanga umuriro w'amashanyarazi.
+Iruhande rw'ako kagezi, hari aho yayoboye amazi anyura mu kagega gacometseho ibitembo biyajyana mu kazu gato karimo turbine akayikaraga maze igatanga umuriro w'amashanyarazi.",0.47
+kin_test_00058,"Byavugwaga ko Iyabivuze wamenyekanye akinira Sunrise FC, yifuzwa na APR FC ku buryo yazayerekezamo ubwo uyu mwaka w’imikino uzaba urangiye.
+Iyabivuze Osée umaze imyaka ibiri muri Police FC nyuma yo kuva muri Sunrise FC, azasoza amasezerano ye mu mpera z’uyu mwaka w’imikino.",0.32
+kin_test_00059,"Muhadjili Hakizimana wagoye ububwugarizi bwa Rayon Sports cyane Michel Rusheshango wagiye mu kibuga asimbuye niwe wafashije APR FC kubona amanota
+Gutsinda uyu mukino byatumye Rayon Sports igira amanota 38 ku mwanya wa kabiri, irushwa amanota ane gusa na APR FC ya mbere.",0.34
+kin_test_00060,"Ati ""Nta muyobozi ugihatira abaturage gufunga ngo bajye mu biganiro, usanga iyo isaha igeze bibwiriza bakajya gukurikirana ibiganiro ku masite biberaho"".
+Abaturage ntibagihatirwa gufunga ngo bajye gukurikirana ibiganiro nk'uko byahoze.",0.66
+kin_test_00061,"Gaga uyobora RSwitch, avuga ko bagamije gufasha leta n'abanyarwanda kugera ku ntego yo kwimakaza ikoranabuhanga muri serivise z'imari
+Smartphone ya mbere ya Nokia ikoresha Android ya 0 igiye gushyirwa ku isoko mu Bushinwa",0.34
+kin_test_00062,"Mu gihe hitegurwa kwibuka Jenoside yakorewe Abatutsi muri Mata 1994, abaturage bakanguriwe kuzibanda cyane ku bikorwa byo gufasha abarokotse ahanini babukira amacumbi.
+Minani Hemed ukuriya abafana ba Kiyovu Sports Jenoside yakorewe Abatutsi muri Mata 1994, yahitanye ubuzima bw’inzirakarenane zazize uko zavutse burenga miliyoni mu minsi ijana gusa.",0.44
+kin_test_00063,"Amaze kuhagera yabwiye abayobozi yari ahasanze ko afite ikibazo ashaka kugeza ku muyobozi w'akarere wungirije ushinzwe imibereho myiza, Mukabalisa Simbi Dative.
+Uwo mugore ariko ntiyagize amahirwe yo kuhasanga umuyobozi w'akarere wungirije ushinzwe imibereho myiza, kuko yari yagiye mu yindi mirimo mu karere ka Rutsiro akayivamo bwije.",0.41
+kin_test_00064,"Madame Jeannette Kagame, yavuze ko uyu mwanya uba ari uwo gutekereza ku mateka no kwibuka ko ubumwe bwacu ari bwo buduha imbaraga zo gutsinda.
+Uyu mwanya udufashe gutekereza ku mateka yacu tunibuka ko ubumwe bwacu ari bwo buduha imbaraga zo gutsinda”.",0.59
+kin_test_00065,"Biteganywa ko Musenyeri Kambanda azakomeza kuyobora Arkidiyosezi ya Kigali kuko aba ari Musenyeri nk’abandi nubwo afite ikindi cyiciro cyisumbuye abarizwamo, nk’uko na Papa ari Musenyeri.
+Musenyeri Kambanda yahawe kuyobora Arkidiyosezi ya Kigali mu 2019 Musenyeri Kambanda aramutsa abakirisitu muri Stade Amahoro ku wa 27 Mutarama 2019",0.82
+kin_test_00066,"Ibi byasabwe kuri uyu wa 26/05/2014 mu muhango wo kwibuka abatutsi 68 bazize Jenoside yakorewe Abatutsi mu Rwanda baguye mu bitaro bya Kibungo.
+Aba bakinnyi bagira bati “Twifatanyije n’abavandimwe na bashiki bacu b’Abanyarwanda mu kwibuka Jenoside yakorewe Abatutsi mu Rwanda mu",0.44
+kin_test_00067,"Mu Rwanda hagiye kubakwa ikigo gikomeye kivura indwara z’umutima Leta y’u Rwanda ifatanyije n’umuganga rurangiranwa w’Umwongereza mu kuvura indwara z’umutima, Prof.
+Sir Magdi Habib Yacoub n’itsinda bazanye mu Rwanda batemberejwe ahazubakwa ikigo kivura indwara z’umutima mu bitaro bya Gisirikare i Kanombe maze barahashima.",0.53
+kin_test_00068,"Abatanga serivisi za Mobile Money, Tigo Cash na Airtel Money bagomba gukora ibishoboka byose ntihagire uwundi uwumenya; kandi uwibwe akwiriye kubimenyesha Polisi mu maguru mashya.""
+Gakara avuga ko Polisi irimo gukora ibishoboka byose kugira ngo inzira ibiyobyabwenge binyuzwamo zisibwe kandi ubufatanye bw'abaturage ni ngombwa.",0.29
+kin_test_00069,"Kunywa itabi Inama ku kwirinda indwara z’umutima • Kurya neza bifasha umutima ; amafunguro arinda indwara z’umutima agomba kuba adafite ibyongera urugimbu rubi mu mubiri (LDL).
+• Amafunguro agomba kuba agabanya mu mubiri ibinure bibi bya cholesterol. • kwirinda bimwe mu bikomoka ku matungo nk’amata, inyama zitukura, fromage, amavuta y’amamesa, ubuto.",0.28
+kin_test_00070,"U Rwanda narwo rwamaze kwemeza burundu aya masezerano binyuze mu Nteko Ishinga Amategeko, asigaye kwemezwa n’umukuru w’igihugu binyuze mu iteka rya Perezida, bigashyikirizwa AU.
+Biteganywa ko aya masezerano azashyirwa mu bikorwa amaze kwemezwa burundu n’ibihugu 22 binyuze mu nteko zishinga amategeko.",0.5
+kin_test_00071,"Jerome izina ry'umuntu bigoye gusobanukirwa Yanditswe kuya 4-08-2016 saa 07:39' na IGIHE Jerome ni izina rifite inkomoko mu Kigereki risobanura ‘izina ritagatifu cyangwa igihangange.
+Dalia, izina ry'umuntu witwararika mu magambo Yanditswe kuya 1-08-2016 saa 06:51' na IGIHE Dalia cyangwa Dahlia ni izina rifite inkomoko mu giheburayo, rikaba risobanura ururabo.",0.28
+kin_test_00072,"Ni umukino wahuje amakipe abiri atarahiriwe n’umunsi wa mbere kuko APR FC yatsinzwe na AS Kigali 1-0; Etincelles FC itsindwa na Rayon Sports 2-
+Police FC yahise itambuka kuri AS Kigali yagumanye amanota 26 yo ifata umwanya wa gatatu n’amanota 28 irushwa abiri na APR FC ya kabiri.",0.41
+kin_test_00073,"Afurika si wo mugabane wibasirwa gusa Umunyamabanga wa Leta muri Minisiteri y’Ubuzima ushinzwe Ubuzima rusange, Dr.
+Umunyamabanga wa Leta ushinzwe ubuzima bw’ibanze muri Minisiteri y’Ubuzima, Dr Ndimubanzi Patrick, yavuze ko uru rukingo ruzanahabwa abanyarwanda babyifuza [email protected]",0.38
+kin_test_00074,"Mazimpaka ni nko kuvuga ngo ni Nkiranuye Ibi bisobanuro byatanzwe n'Inteko Nyarwanda y'Ururimi n'Umuco RALC
+Uko amacumbi yubakwa i Batsinda azaba ateye namara kuzura [email protected]",0.06
+kin_test_00075,"Umushumba wa Kiliziya Gatulika Papa Francis yirukanye umusenyeri wo muri Paraguay wakingiye ikibaba umupadiri ukekwaho gusambanya abana b'abahungu ku ngufu.
+Kiliziya ntizongera gukingira ikibaba Abihayimana bafata abana ku ngufu-Papa Francis Nyirubutungane Papa Francis buri mwaka ageza ijambo ku baturiye Vatican.",0.75
+kin_test_00076,"Iri siganwa riri ku rwego rwa 2 ryitabiiriwe n’amakipe icyenda muri uyu mwaka, aho ikipe y’u Rwanda ifite iriheruka inahabwa amahirwe yo kongera kuryegukana.
+Ikipe y’u Rwanda yitabiriye iri siganwa ku nshuro ya mbere kuva mu 2006, aho kuri ubu riri kuba ku nshuro ya",0.44
+kin_test_00077,"Aba baturage bavuga ko aya mazi yatashywe ku mugaragaro n'abayobozi ariko ngo nyuma yo kuyataha akaba atarongeye kugaruka.
+Aba baturage bavuga ko ikibababaza ari uko aya mazi yaje gutahwa n'abayobozi ariko ngo nyuma yo kuyataha, aya mazi ngo ntiyogeye kugaruka kuko yagiye ubutagaruka.",0.81
+kin_test_00078,"Yavuze ko Polisi ifatanije n’izindi nzego bashyizeho uburyo bwo gucunga umutekano hariya hano harimo kuhapanga amarondo ya nijoro.
+Yavuze ko Polisi y’u Rwanda k’ubufatanye n’izindi nzego z’umutekano mu baturage biteguye guhashya abantu bose bashaka guteza umutekano mucye mu baturage.",0.75
+kin_test_00079,"Umuyobozi w'Akarere ka Rusizi, Oscar Nzeyimana, yavuze ko abo bose bagiye bagaragaza ibimenyetso birimo kugira umuriro, kubabara umutwe, kuribwa mu nda, gucibwamo ndetse no kuruka.
+Ibimenyetso byayo birimo guhinda umuriro, umunaniro, kubabara umutwe, kuribwa mu nda no kurwara impiswi cyangwa impatwe.",0.46
+kin_test_00080,"Ni mu birori byiswe ‘Kigali Nightlife Experience’ byari byateguwe ku bufatanye na Kigali Marriott Hotel mu rwego rwo gukomeza gushyigikira uruganda rw’imideli mu Rwanda.
+Umuyobozi ushinzwe imenyekanishabikorwa muri Kigali Marriott, Victoria N.Obiakor, yabwiye IGIHE ko batekereje gushyigikira iki gikorwa mu rwego rwo gukomeza guteza imbere ibijyanye n’imideli mu Rwanda.",0.5
+kin_test_00081,"Niwo mukino wa mbere umutoza Paul Put yari atoje igihugu cya Kenya nyuma yo kumugira umutoza mukuru w’ikipe y’igihugu, Harambe Stars.
+Niwo mukino wa mbere Rayon Sports yari ikinnye nyuma yo gupfusha umutoza wungirije Katuti Hamad, umukuru, Karekezi na we akaba ari mu maboko ya Polisi.",0.28
+kin_test_00082,"Ibi bikazafasha abahakana bakanapfobya Jenoside yakorewe Abatutsi ndetse n'abanyamahanga kurushaho gusobanukirwa amateka yaranze u Rwanda ndetse n'aho rugeze rutegura ejo hazaza h'abana barwo.
+Akomeza avuga ko ari byiza gukomeza kubafasha kumenya neza no gusobanukirwa amateka ya Jenoside yakorewe Abatutsi n’ubukana yakoranywe, bikabafasha gukura neza mu mitekerereze, birinda amacakubiri.",0.38
+kin_test_00083,"Mu 2013 ku busabe bwa Minisiteri y’Ubuzima wimukiye i Kigali ndetse utangira no gukorera hirya no hino mu gihugu.
+Muri Gashyantare uyu mwaka nibwo zimwe mu nsengero zitari zujuje ibisabwa zatangiye gufungwa haba i Kigali no hirya no hino mu gihugu.",0.38
+kin_test_00084,"Dore ingero z'abo ijuru ryatabaye: Ijuru ryatabaye Mose ageze ku Nyanja itukura ingabo z' Abanyegiputa zimuturutse inyuma imbere ye hari inyanja, iruhande hari imisozi.
+Ijuru ryatabaye Yosuwa ageze I Yeriko atazi icyo gukora haza umugaba w' ingabo z' Imana aramubwira ngo ""Nje kubera umugaba ingabo z' Imana.",0.69
+kin_test_00085,"Niyonkuru Aman niwe wahawe penaliti ya 5 y'u Rwanda ariko ayitera hejuru mu gihe Misiri yahise yinjiza iyayo ihita inasezerera u Rwanda.
+Kenya yahise ibona tike y'igikombe cy'Isi ihita inafata umwanya wa kabiri nyuma ya Misiri yabaye iya mbere naho u rwanda ruba urwa gatatu.",0.31
+kin_test_00086,"Icyo gitaramo cyo kuramya no guhimbaza kirabera ku rusengero rwa New Life Bible Church ku Kicukiro ahateganye n'ishuri ryisumbuye rya Kagarama (Kagarama Secondary School).
+Hazaba kandi harimo n'itsinda ryo kuramya no guhimbaza ryo muri iri torero rya New Life Bible Church.",0.69
+kin_test_00087,"Abantu basanganywe ubwandu bushya batumye umubare w’abamaze kwandura Coronavirus mu Karere ka Rusizi mu Burengerazuba bw’u Rwanda bagera kuri 24 mu minsi itatu gusa.
+Mu Rwanda umubare w’abamaze kwandura COVID-19 iterwa n’agakoko ka Coronavirus ni 1435, muri bo 752 barakize, 679 baracyitabwaho kwa muganga mu gihe bane bitabye Imana.",0.5
+kin_test_00088,"Leta y’u Rwanda ndetse n’imiryango nterankunga bagiye bashyiraho gahunda zitandukanye zo gukemura iki kibazo arikona n’ubu ntikirarangira.
+Mu rwego rwo kurengera ubuzima bw’umwana w’umukobwa, leta y’u Rwanda yagiye ishyiraho gahunda nyinshi zitandukanye zirimo: Inkubito y’icyeza, kunda umwana wese nk’uwawe, malayika murinzi, n’izindi.",0.28
+kin_test_00089,"Umugenzuzi Mukuru w’Imari ya Leta, Biraro Obadiah wari mu bitabiriye ibiganiro byatumijwe na BNR, agira inama inzego guha imbaraga amakoperative kugira ngo atange umùsaruro.
+Umugenzuzi mukuru w'imari ya Leta, Obadiah Biraro avuga ko CMA kuba iri mu Rwanda ari ikimenyetso cy'imiyoborere myiza.",0.68
+kin_test_00090,"IP Kayigi avuga ko abantu bakwiye kujya bamenyesha ubuyobozi ibibazo byabo baba bafite mu miryango, kugira ngo bikemurwe mbere y'uko bibyara ibibazo birimo n'ubwicanyi.
+Avuga kandi ko abantu na bo bakwiye kujya batanga amakuru mu gihe babonye ingo zirimo amakimbirane kugira ngo abashe guhoshwa mu maguru mashya.",0.56
+kin_test_00091,"Bamwe mu banyamakuru bitabiriye ikiganiro MENYA UMWANDITSI Charles Ruzindana Umunyamakuru wa Kigali Today/KT Radio  CharlesRUZINDA2
+Kayumva Ephrem Umuyobozi w’akarere ka Rusizi Kwibuka25 MENYA UMWANDITSI Euphrem Musabwa Umunyamakuru wa Kigali Today/KT Radio  EuphremMusabwa PROMOTED STORIES",0.38
+kin_test_00092,"Inama y'Abaminisitiri yemeje Politiki yo kwigisha abantu bakuru gusoma no kwandika n'ingamba zo kuyishyira mu bikorwa muri 2013/14- 2017/
+Inama y'Abaminisitiri yemeje Politiki yo kwita ku buzima n'umutekano ku kazi na Gahunda yo kuyishyira mu bikorwa.",0.34
+kin_test_00093,"Mpyisi ukabakaba imyaka 95 kuko yavutse mu 1922, yabonye impamyabumenyi y’icyiciro cya kabiri cya kaminuza mu
+Afite impamyabumenyi y’icyiciro cya kabiri cya kaminuza mu by’Ubuhinzi n’Ubukungu yabonye umwaka ushize, kuko aribwo yarangije muri Kaminuza y’u Rwanda.",0.34
+kin_test_00094,"Kugeza ubu ntiharamenyekana aho Banyangiriki amaze igihe yihishe.
+Kugeza ubu ntiharamenyekana aho Banyangiriki amaze igihe yihishe kuko atarabazwa. ubu hari gushakwa uko yajyanwa muri gereza akajya kurangiza igihano, dore ko ibikomere byo byavuwe.",0.94
+kin_test_00095,"Kuri uyu wa Kabiri, Leta Zunze Ubumwe za Amerika zapfushije abantu 1 630 n’aho abandi 22 802 bafatwa n’iki cyorezo.
+Leta Zunze Ubumwe za Amerika nicyo gihugu gikomeje kwibasirwa cyane kuko gifite abantu 037 bapfuye na 309 banduye.",0.44
+kin_test_00096,"Umunyamabanga wa Leta muri Minisante, Dr Patrick Ndimubanzi wari uhagarariye iyo Minisiteri yavuze ko ubu buryo buzafasha mu ihererekanyamakuru ryihuse muri serivisi z'ubuvuzi.
+Umunyamabanga wa Leta ushinzwe ubuzima bw’ibanze muri Minisiteri y’Ubuzima, Dr Ndimubanzi Patrick, yavuze ko uru rukingo ruzanahabwa abanyarwanda babyifuza [email protected]",0.43
+kin_test_00097,"Jean Damascene Bizimana Umunyamabanga nshingwabikorwa wa Komisiyo y’igihugu yo kurwanya Genocide yavuze ko guhakana no gupfobya Genocide yakorewe abatutsi bikorwa n’ibyiciro byose by’Abanyarwanda.
+André Twahirwa, Dr Jean Damascène Bizimana na Albert Toch bari mu bitabiriye ibyo biganiro Umunyamabanga nshingwabikorwa wa komisiyo ishinzwe kurwanya Jenoside (CNLG) Dr.",0.47
+kin_test_00098,"Umuhango wo gushyira umukono kuri ayo masezerano wabereye i Kinshasa muri Repubulika Iharanira Demokarasi ya Congo ku wa mbere tariki 29 Nyakanga
+Ubwa mbere ryegukanywe n’umukobwa uturuka muri Repubulika Iharanira Demokarasi ya Congo witwa Pamela Baketa, ubwa kabiri ryegukanwa n’ukomoka muri Togo witwa Victoire Biaku.",0.25
+kin_test_00099,"Mu ijoro ryo ku itariki ya 28 Werurwe 2014 nibwo Senderi International Hit yahawe igihembo cya Best Afrobeat Artist mu marushanwa ya Salax Awards.
+Mu ijoro ryo ku itariki ya 8 Gicurasi 2014 nibwo mu mujyi wa New York habereye ibirori bitangiza iserukiramuco ry’imideli byiswe Met Gala.",0.12
+kin_test_00100,"Iyi ndwara kandi ikunze kugaragara cyane ku mugabane wa Aziya, Amerika y’epfo ndetse na Afurika yo munsi y’Ubutayu bwa Sahara ari nayo u Rwanda ruherereyemo.
+U Rwanda rukaba rwabaye kandi igihugu cya kabiri muri Afurika gihawe icyangombwa nk'iki cyo gutanga no gufashisha amaraso indembe kuri uyu mugabane nyuma ya Namibiya.",0.28
+kin_test_00101,"Yongeraho ko hagati y'iminota 7 na 13 ari igihe cyiza abakora imibonano mpuzabitsina baba bashize ipfa .
+Twakwanzura ko kugira ngo imibonano mpuzabitsina iryohere abayikora , igomba kumara hagati y'iminota 17 na 43 habariwemo igihe cyo gutegurana kw'abashakanye nkuko ubushakashatsi bwabigaragaje.",0.5
+kin_test_00102,"Umukino warangiye u Rwanda ruteye amashoti atatu akomeye mu izamu rya Kenya ntirwabonamo igitego na kimwe mu gihe Kenya yateye atatu ibonamo ibitego bibiri.
+Ni mu gihe Tanzania, Uganda, u Burundi na Kenya byo umusoro wakwa ibigo by’ubucuruzi ari kimwe n’utangwa mu Rwanda ungana na 30%.",0.31
+kin_test_00103,"Umuvugizi wa Guverinoma akaba na Minisitiri w’ububanyi n’amahanga mu Rwanda Louise Mushikiwabo yihanganishije imiryango y’ababuriye ababa muri ibi biza.
+Ibi byatangajwe na Minisitiri w’Ububanyi n’Amahanga akaba n’Umuvugizio wa Guverinoma y’u Rwanda Louise Mushikiwabo uri muri iyi nama abinyujije ku rukuta rwe rwa Twitter.",0.56
+kin_test_00104,"Polisi y'u Rwanda irongera kwibutsa abatwara ibinyabiziga kwitwararika kubahiriza amategeko y'umuhanda, kugirango birinde impanuka zidutwara abantu zikanangiza ibintu.
+Polisi y'u Rwanda ikaba yongera kwibutsa abatwara ibinyabiziga ko bagomba kubahiriza amategeko abagenga, ndetse bakubahiriza n'agenga ibinyabiziga n'imitwarire yabyo.",0.84
+kin_test_00105,"AS Kigali yakozemo amakosa atatu (3) yatumye Rayon Sports iyahana ikoresheje imipira y’imiterekano.
+Rayon Sports yakoze amakosa atanu (5) yatumye AS Kigali itera imipira y’imiterekano nubwo Kubwimana Cedric bita Jay Polly yahaboneye ikarita y’umuhondo.",0.41
+kin_test_00106,"Nyuma y’amezi make Habyarimana ahiritse ubutegetsi, u Bufaransa bwahise bumwereka ko bumushyigikiye cyane.
+Twagiramungu aherutse kuvuga ko Coud d'etat yateguriwe i Kinshasa Habyarimana agifata ubutegetsi, u Bufaransa bwaramwiyegereje cyane.",0.34
+kin_test_00107,"Abahanga bagaragaza ko iyo kanseri itahuwe kare ivurwa igakira Umuganga w’indwara z’umubiri, akaba n’umuyobozi wa MBC Hospital, Dr.
+Jean Paul Basabose, avuga abarwaye kanseri bagenda biyongera nyamara uburyo bwo kuyivura mu gihugu butari hose Umuganga w’indwara z’umubiri, akaba n’umuyobozi wa MBC Hospital, Dr.",0.56
+kin_test_00108,"Iki giterane cy’iminsi itatu giteganyijwe tariki ya 2-4 Kanama 2019; kizabera i Remera Rukoma mu Karere ka Kamonyi ahazwi nko Mu Kiryamo cy’Inzovu.
+Rwanda Shima Imana iteganijwe ku Cyumweru tariki ya 17 Kanama 2014, saa sita z'amanywa ikazabera kuri Sitade Amahoro I Remera mu Karere ka Gasabo.",0.34
+kin_test_00109,"Ni mu gihe Ishami ry’Umuryango w’Abibumbye ryita ku mpunzi, UNHCR, ryatangaje ko sitati y’ubuhunzi ku Banyarwanda, izaba yarangiranye n’itariki ya 31 Ukuboza
+Umunyafurika wari wagaragaweho Coronavirus ntayo akirwaye Ishami ry’Umuryango w’Abibumbye ryita ku Buzima (OMS/WHO) ryatangaje ko umuntu wasanganwe coronavirus mu Misiri ubu ntayo agifite.",0.31
+kin_test_00110,"Nk’uko muri iki gitondo umutoza Jimmy Mulisa yabitangarije Umuryango.rw, yavuze ko koko uyu musore ari muri APR FC mu igeragezwa.
+Umutoza wa APR FC Zlatko Krmpotić yasabwe gutwara CECAFA Kagame Cup avuga ko adashaka gukora n'abarimo Jimmy Mulisa",0.47
+kin_test_00111,"Mu miti bifashisha mu kuvura abagabo bafite ikibazo cyo kugira ubushake buke cyangwa se barwaye uburemba, harimo uwitwa Vigpower.
+Abagabo bafite ikibazo cyo kubura ubushake cyangwa kugira uburwayi bw’uburemba(impuissance) bagana iri vuriro bakongera kurebana akana ko mu jisho n’abagore babo.",0.81
+kin_test_00112,"11:10: Kugeza ubu, Edward MGreene niwe ukiri imbere, yasize igikundi cyose ho iminota ibiri n’amasegonda umunani.
+10:45: Edward MGreene niwe ukiri ku isonga aho yasize amasegonda 30 babiri bamukurikiye aribo Samuel Hakiruwizeye na Jimmy Uwingineye.",0.69
+kin_test_00113,"Simon, izina ry’umuhungu ushabutse mu mitekerereze Simon ni izina rikomoka ku rindi ry’Igiheburayo “Semeon” bivuga umuntu wumvira cyangwa wumva abandi.
+Pierre, izina ry’umuhungu uharanira kugera ku ntego yihaye Pierre ni izina ry’abahungu rikaba rikomoka ku rindi riri mu rurimi rw’Ikigereki “Pétros” bivuga urutare rukomeye.",0.33
+kin_test_00114,"Ibi ni ibyatangajwe na DR Mukabaramba Alvera Umunyamabanga wa Leta ushinzwe imibereho myiza muri Minisiteri y'ubutegetsi bw'igihugu aganira na Kigali Today.
+Umunyamabanga wa Leta muri Minisiteri y’Ubutegetsi bw’Igihugu ushinzwe imibereho myiza y’abaturage, Mukabaramba Alvera, yavuze ko bashimira uruhare rwa Kiliziya Gatolika mu kubaka u Rwanda.",0.66
+kin_test_00115,"IP Kayigi yasabye abaturage gukomeza kugira ubufatanye na Polisi batangira amakuru ku gihe y'abacuruza ibiyobyabwenge kugirango abo banyabyaha bafatwe.
+IP Kayigi akaba ahamagarira abaturage kurushaho gufatanya na polisi batanga amakuru ku bantu bose barigisa umutungo wa Leta.",0.66
+kin_test_00116,"Tariki 17 Mata 2000 nibwo Perezida Kagame yatowe n’Inteko Ishinga Amategeko ndetse n’abagize Guverinoma ngo asimbure Pasteur Bizimungu wari umaze ibyumweru bibiri yeguye.
+Kuwa 22 Mata 2000 nibwo Perezida Paul Kagame yarahiriye kuba Perezida nyuma yo kwemezwa n’urukiko rw’ikirenga.",0.59
+kin_test_00117,"Umuyobozi wa Spenn mu Rwanda, Haguma Norbert, yavuze ko abantu bakwiye kugira umuco wo kudahererekanya amafaranga kandi ko kohereza amafaranga mu ikoranabuhanga bidakwiye gusaba ikiguzi.
+Umuyobozi wa Yego Innovision, Karanvir Singh, yavuze ko yishimiye gukorana na Spenn kuko bizajya byorohereza abashoferi babo kubona amafaranga yabo yose kandi mu gihe gito.",0.69
+kin_test_00118,"Harimo iyitwa Roma-Bangkok bahuriyemo na Baby K, Giusy Ferreri yabaye indirimbo y’umwaka wa 2015 mu Butalayani, ikaba imaze kurebwa inshuro zirenga miliyoni 200 kuri YouTube.
+Mu 2018 bakoze indirimbo bise Amore e capoeira bahurije hamwe Giusy Ferreri na Sean Kingston imaze kurebwa inshuro miliyoni",0.34
+kin_test_00119,"MTN ari nayo yageze mu Rwanda bwa mbere yashyizeho MTN Mobile Money, Tigo yaje iyikurikira ishyiraho Tigo Cash naho Airtel ishyiraho Airtel Money.
+Abatanga serivisi za Mobile Money, Tigo Cash na Airtel Money bagomba gukora ibishoboka byose ntihagire uwundi uwumenya; kandi uwibwe akwiriye kubimenyesha Polisi mu maguru mashya.""",0.5
+kin_test_00120,"Abo mu bigaragara nibo batora ugomba kuba Perezida wa Leta Zunze Ubumwe za Amerika.
+Nyamara ibihugu by'ibihangage birimo Leta Zunze Ubumwe z'Amerika n'Ubwongereza byakomeje gusaba u Rwanda kuba rwakubahiriza Itegeko Nshinga, ntirivugururwe ngo bibe byatuma Perezida ashobora kwiyamamaza.",0.36
+kin_test_00121,"Mukobwa mwiza rero niba ubona hari ibimenyetso ubona mu byo twavuze ,menya ko umubano wanyu atari urukundo ndetse ntaho uzabageza hafatika niba ariko ubyibwira.
+Ntabwo ari umukobwa wese ushobora kwihanganira umusore umucunga cyane ndetse akamuha amategeko akabije, hari ubona atazabishobora agahitamo kwigendera kandi aribwo umubano wanyu wari ugitangira.",0.53
+kin_test_00122,"Lwaga yageze ku Kibuga Mpuzamahanga cy’indege cya Kigali i Kanombe ahagana saa kumi n’ebyiri z’igitondo.
+Ahagana saa kumi n’imwe z’igitondo nibwo aba bafana bahagurutse mu Mujyi wa Kigali berekeje i Nyagatare.",0.25
+kin_test_00123,"Imiryango 15,593 yarazimye muri Jenoside yakorewe Abatutsi Imiryango 15,593 y’Abatutsi igizwe n’abantu 68,871 ni yo imaze kumenyekana ko yazimye muri Jenoside yakorewe Abatutsi mu
+Kugeza ubu, imiryango hafi 100 yari igizwe n'abantu hafi ibihumbi 24 ni yo imaze kumenyekana ko yazimye gusa mu turere 10 ibarura ryakorewemo.",0.56
+kin_test_00124,"Umuyobozi mukuru w’Ishami ry’Umuryango w’Abibumbye ryita ku buzima (WHO), Tedos Adhanom, yashimye u Rwanda kuba rwarageze ku ntego z’uwo muryango za 2020 mu kurwanya SIDA.
+Ishami ry’Umuryango w’Abibumbye ryita ku Buzima (OMS) ryemeje ku wa 11 Werurwe 2020 ko Coronavirus ari icyorezo cyugarije Isi bitewe n’ubwiyongere bw’abayandura.",0.12
+kin_test_00125,"Guverineri w’Intara y’Amajyaruguru, Gatabazi Jean Marry Vianney, yabwiye abaturage ati “Tugomba kuboneza urubyaro dushaka ubuzima bwiza, ariko ntibigomba guhera mu magambo, bigomba gushyirwa mu bikorwa.”
+Minisitiri Dr Gashumba yavuze ko iyo umubyeyi ataboneje urubyaro aba yiyongerera ibyago byo gupfa Guverineri Gatabazi yabwiye abaturage ko kuboneza urubyaro ari inkingi y'ubuzima bwiza",0.53
+kin_test_00126,"Umuhango wo kwibuka abahoze ari abakozi ba MINEDUC bazize Jenoside yakorewe Abatutsi wabaye ku nshuro ya gatandatu, witabiriwe n'abayobozi banyuranye ndetse n'imiryango n'inshuti z'abibukwaga.
+Abanyeshuri n'abayobozi ba ICK bari mu rugendo rwo kwibuka ku nshuro ya 20 Jenoside yakorewe Abatutsi.",0.44
+kin_test_00127,"Nyuma y’imyaka yose yari ishize, muri Gicurasi 2018 Perezida Kagame yasuye u Bufaransa aganira na Perezida Macron bemeza kunoza umubano.
+Perezida Kagame aganira n'abaturage nyuma y'umuganda Perezida Kagame yavuze ko igisigaye ari ukongera umuvuduko kandi ko ibyiza u Rwanda rwagezeho rutuma baryoherwa.",0.22
+kin_test_00128,"Mu mezi atandatu ya mbere ya 2016 hoherejwe amabuye angana na toni ibihumbi 13 zivuye kuri toni ibihumbi 79 mu gihe nk'iki cya
+Wolfram Agaciro k'amabuye ya Wolfram kagabanutseho 9% mu mezi atandatu ya mbere ya 2016 ugereranyije n'igihe nk'iki cya",0.41
+kin_test_00129,"Muri uyu mukino Rayon Sports nayo yabonyemo uburyo bukomeye bwa Michael Sarpong harimo ubwo ku munota wa 83 ariko kwerekeza umupira mu rushundura birananirana.
+Ku munota wa 12 w’umukino,Cameroon yabonye uburyo bukomeye ubwo Vincent Aboubacar yacaga mu rihumye ba myugariro b’Amavubi ariko ateye umupira ujya hanze.",0.31
+kin_test_00130,"Umuyobozi w’Ikigo cy’Igihugu gishinzwe Ubuzima, RBC, Dr Nsanzimana Sabin, yavuze ko abanyarwanda nibadafata ingamba zo kubahiriza amabwiriza yo kwirinda, ibintu bishobora kuba bibi kurushaho.
+Umuyobozi w’Ikigo cy’Igihugu gishinzwe Ubuzima (RBC), Dr Sabin Nsanzimana yasabye abantu gukomeza kwirinda kujya muri ibyo bibazo byo kurwara COVID-",0.78
+kin_test_00131,"Mu itangazo rigenewe abanyamakuru, Minisiteri y’Ubucuruzi n’Inganda ivuga ko hazongerwa igihe ntarengwa cyo kwishyura umusoro ku nyungu rusange (CIT), no koroshya kugira ngo ubucuruzi bwiyongere.
+Minisiteri y’Ubucuruzi n’Inganda ivuga ko ikomeje gukorana bya hafi n’Urugaga rw’Abikorera (PSF), kugira ngo urwego rw’ubucuruzi n’inganda rurusheho gukemura ibibazo.",0.34
+kin_test_00132,"Ibi byatumye ikinyuranyo cyari hagati ya Rayon Sports na APR FC kigabanuka hasigaramo amanota 3 mu gihe yari atanu.
+APR FC isuye aba basirikare bamugariye ku rugamba mu gihe habura amasaha make ngo ihure na Rayon Sports mu mukino wo guhatanira igikombe cy'Intwari.",0.31
+kin_test_00133,"Diamond Crypto Smartphone Diamond Crypto Smartphone nayo n'indi telefoni iza ku rutonde rw'izihenze ku isi aho igura 1,022,294,000 z'amanyarwanda ($3 million).
+GoldVish Le Million Ku mwanya wa kane haza GoldVish nayo igura amafaranga y'u Rwanda 1,022,294,000 ($3 million).",0.28
+kin_test_00134,"Abavoka bagize urugaga babanze gukora urugendo rwo kwibuka abazize Jenoside yakorewe Abatutsi mu
+Yagize ati: ""Turimo kwibuka ku nshuro ya 26 Jenoside yakorewe Abatutsi muri Mata",0.53
+kin_test_00135,"Mu biganiro byatanzwe, abanyeshuri bisobanuriwe amateka y’uburyo Jenoside yateguwe n’ubuyobozi bubi, bwavanguraga abaturage bubacamo ibice bigeza kuri Jenoside yakorewe Abatutsi mu
+Abaturage batuye umurenge wa Bumbogo bari bahuye ari benshi baje kwifatanya mu kwibuka abazize Jenoside yakorewe ABatutsi mu",0.34
+kin_test_00136,"Uburyo imibonano mpuzabitsina isenya umubano hagati y’abashakanye Mu mibanire myiza y’abashakanye, imibonano mpuzabitsina ni ingenzi cyane.
+Nubwo imibonano mpuzabitsina ifite byinshi kandi byiza izana hagati y’abashakanye, ititondewe ishobora kwangiza umubano w’umugabo n’umugore.",0.75
+kin_test_00137,"Esther akomeza agira ati:""Cyusa sinkubeshye nakubwiye kenshi ko mfite undi gusa noneho reka nkubwize ukuri!""
+Nuko Media aramubwira ati:""ubwo nyine nagiye kumva numva aramubwiye ati:""Cyusa sinkubeshye nakubwiye kenshi ko mfite undi gusa noneho reka nkubwize ukuri!""",0.5
+kin_test_00138,"Musenyeri Hakizimana yasoje gusobanura ivanjili afatanya n’abakirisitu bitabiriye Misa gusubiramo inshuro eshatu basabira Imana ngo ihe Padiri Ubald kurukukira mu mahoro.
+9:50: Musenyeri Hakizimana atangije misa asaba abakirisitu guherekeza Padiri Ubald mu byishimo kuko ubuzima bwe bwari bwuzuyemo akanyamuneza.",0.81
+kin_test_00139,"Iki giterane kizajya gitangira saa kumi z’umugoroba gisozwe saa moya n’igice z’ijoro (16h00 Pm -19:30 Pm.)
+Iki giterane kikazamara iminsi 4, aho buri munsi kizajya gitangira saa kumi z'umugoroba (16h00/4pm) kikageza saa tatu z'ijoro, kibera kuri Women Foundation Ministries Kimihurura.",0.31
+kin_test_00140,"Umwaka ushize wa 2014, abanyeshuri bakoze ibizamini bisoza amashuri yisumbuye banganaga na 46
+Abanyeshuri bose bakoze ibizami bisoza umwaka w'amashuri 2016 mu mashuri abanza ni 194 679, mugihe mu cyiciro cya mbere cy'amashuri yisumbuye ari 91",0.38
+kin_test_00141,"Perezida Kagame kandi ati: ""Mu Rwanda hamaze kugaragara umuntu wa mbere wanduye COVID
+Sisis kandi ni we Perezida wa mbere uzasura u Rwanda nyuma yuko Perezida Kagame atsindiye indi manda mu matora aherutse kuba.",0.19
+kin_test_00142,"Muri iyi baruwa, Pasiteri Niyitanga Salton agaragaza ko kwamburwa inshingano z’ubupasiteri hirengagijwe amasezerano yagiranye n’ubuyobozi bwa ADEPR bujya kuzimuha.
+Pasiteri Niyitanga Salton ukurikiranywe muri dosiye ya ADEPR na we yasabye gusubizwa inshingano yambuwe Ibaruwa yandikiye Umuvugizi wa ADEPR, Rev.",0.78
+kin_test_00143,"Igira iti “Ku wa 7 Mata, Perezida wa Repubulika yatangaje ko iyo tariki izaba umunsi wo kwibuka Jenoside yakorewe Abatutsi mu Bufaransa.
+Rugamba yishwe muri Jenoside yakorewe Abatutsi tariki ya 7 Mata 1994, hamwe n’umugore we n’abana batandatu bari bafitanye.",0.19
+kin_test_00144,"N'ubwo ikibazo ibi bibazo byavuzwe muri iyi kipe imanagura abakinnyi itinze ariko umutoza avuga ko shampiyona bazayikina kandi ko intego ari iyo guhanganira igikombe.
+Umutoza Nyirimana Fidele ati:""Shampiyona turyiteguye, abakinnyi bakomeye baragiye ariko n'ubu tumaze kubona abandi batari bake kandi barimo abasanzwe bamenyereye shampiyona n'ubu twiteguye guhanganira igikombe.",0.38
+kin_test_00145,"Icyakora, uretse mu 2005, nta na rimwe higeze habaho amatora arimo guhangana kugaragara nkuko The East African yabitangaje.
+Umuyobozi Mukuru wa Serianu, William Makatiani, yavuze ko abakora ubucuruzi buciriritse benshi barajwe ishinga no kubaka ubwirinzi bw’ibanze nkuko The East African yabitangaje.",0.59
+kin_test_00146,"Mu mikorere yawo, uwo muti ugabanya ibyago byo kwandurira HIV mu mibonano mpuzabitsina ku gipimo cya 99% iyo wafashwe neza nk’uko amabwiriza abivuga.
+Ibinini bya PrEP bigabanya ibyago byo kwandura HIV ku gipimo cya 99% iyo bikoreshejwe hubahirizwa amabwiriza",0.62
+kin_test_00147,"Yavuze kandi ko iyo Umugore n' umugabo bafite gene nzima n' izifite ubusembwa, baba bafite amahirwe yo kubyara abana bafite ubumuga bw' uruhu n'abadafite ikibazo.
+Abafite gene nzima n' izifite ubusembwa ni amahirwe angana na 25% yo kubyara abana bazima.""",0.41
+kin_test_00148,"Tariki ya 9 Werurwe, Isi yose yizihiza Umunsi Mpuzamahanga wo kurwanya indwara z’impyiko nk’imwe mu zitandura ariko ikomeje kwibasira abantu benshi batanabizi.
+Umunsi wo kurwanya indwara z’impyiko uzizihizwa tariki ya 11 Werurwe mu Rwanda hakazabaho urugendo kuva kuri CHUK kugera muri Car Free Zone.",0.75
+kin_test_00149,"Uyu musekirite avuga ko icumbi ry’ abakobwa biga muri kaminuza muri iyi minsi rikwiye guhabwa umuntu ukuze utararurwa n’ ibibonetse byose.
+Maureen Onyango , umwe mu banyeshuri b’ abakobwa baba ku icumbi Simon arinda avuga ko nta muntu ukwiye gutegeka abakobwa biga muri kaminuza uko bambara.",0.5
+kin_test_00150,"Kumenya gutera imbaraga umugabo wawe igihe yagize intege nke Ibi bikorwa mu buryo bituma urukundo yagukundana rwiyongera.
+Numenya gukomeza umugabo wawe igihe yacitse intege uzasanga no gutera imbere mu by’ubutunzi biborohera.",0.78
+kin_test_00151,"Iby'ubu bwicanyi n'inzego z'ubutasi za Leta Zunze Ubumwe za Amerika zari zibizi, ariko zigasanga bubaye hashobora kuzapfa nk'abantu barenga 500,
+Leta Zunze Ubumwe za Amerika nazo zari zatumiwe ariko zanga kwitabira kuko nta nyungu nyinshi zabonaga muri Afurika.",0.31
+kin_test_00152,"Umuyobozi w’umujyi wa Kigali wungirije ushinzwe ubukungu n’iterambere nawe yashimiye abakiristu ba ADEPR n’abyobozi bayo uburyo babera ikitegererezo abandi baturage.
+Umuyobozi w'Akarere ka Rulindo wungirije ushinzwe ubukungu n'iterambere, Mulindwa Prosper, yashimiye abagize uruhare bose mu kwesa umuhigo wo kubona inyubako za SACCO.",0.22
+kin_test_00153,"Murekezi yabwiye aba banyeshuri barangije kaminuza ko guverinoma y’u Rwanda nayo izakomeza gushakisha icyabateza imbere kandi ko itazabatererana.
+Guverinoma y’u Rwanda kandi yashyize imbaraga mu kurandura ubukene binyuze mu guteza imbere uburezi, ibikorwa remezo, ishoramari ry’abanyamahanga n’iry’abenegihugu.",0.31
+kin_test_00154,"Mu butumwa yatanze, Infantino yagize ati “ Evariste Mutuyimana yari umukinnyi w’ingenzi muri Rayon Sports nyuma yaho yari amaze imyaka ibiri akinira Sofapaka muri Kenya.
+Uretse Rayon Sports, Mutuyimana Evariste yanakiniye Kiyovu Sports, Police FC yamenyekaniyemo mbere yo kwerekeza muri Sofapaka yo muri Kenya.",0.62
+kin_test_00155,"Ndashimira rero Leta y’u Rwanda kuko twabonye umutekano ndetse ngashimira n’inzego zose z’ubuyobozi ziduhora hafi buri munsi”.
+Umuyobozi w’akarere ka Rukiga, Pulkeria Muhindo, yashimiye Leta y’u Rwanda kuko yafashe neza imibiri y’ababo bishwe, ndetse ikaba yanayibashyikirije.",0.28
+kin_test_00156,"Iyo abihamijwe n’urukiko igihano kiba igifungo cya burundu n’ihazabu y’amafaranga y’u Rwanda arenze miliyoni makumyabiri (000 FRW) ariko atarenze miliyoni mirongo itatu (000 FRW).
+Ubusanzwe amabwiriza agenga imitangire y’inguzanyo ateganya ko inguzanyo itangwa itagomba kurenza amafaranga y’u Rwanda 70,000,000 ariko byagaragaye ko hari umuntu wahawe inguzanyo y’amafaranga miliyoni",0.34
+kin_test_00157,"Yagitumiyemo Bizimana Patient, Gaby Kamanzi, Irimbere Christian, Shekinah Worship Team y’i Masoro na Shining Stars Family bazamufasha gususurutsa no gufasha abazitabira kujya mu mwuka.
+Yabaye muri Shining Stars na Shekinah Worship Team ndetse ari mu batangije itsinda ryiswe Salvation Proclaimers ryateguraga ibitaramo bitandukanye byo kuramya no guhimbaza Imana.",0.28
+kin_test_00158,"Ubu rero habonetse imiti n’inyunganiramirire by’umwimerere bikoze mu bimera, bivura iyi ndwara yo kwibagirwa ndetse bigafasha ubwonko gukora neza ndetse bigatuma amaraso atembera neza.
+Iyi miti rero ifasha ubwonko gukora neza ndetse bigatuma n’imyakura (Nerves) ikora neza.",0.75
+kin_test_00159,"ACP Theos Badege ukuriye ishami ry'ubugenzacyaha muri Polisi avuga ko bikwiye ko ababyeyi bakwiye gukurikirana abana bakabarinda ababajyana mu tubari.
+ACP Theos Badege yavuze ko iki ari igikorwa cyangiza abana, asaba ba nyiri utubari kwitondera kwinjiza abana ndetse ko n'ababyeyi bakwiye kwita ku bana babo.",0.97
+kin_test_00160,"Umuvugizi wa Polisi mu Ntara y'Amajyepfo, Chief Superintendent Hubert Gashagaza, atangaza ko polisi itajya irekura umuntu yafatanye urumogi, imyanzuro nk'iyo ikaba ifatwa n'ubushinjacyaha.
+Chief Spertendant Hubert Gashagaza umuvugizi wa Polisi mu Ntara y'amajyepfo.",0.72
+kin_test_00161,"Insanganyamatsiko yo kwibuka ku nshuro ya 22 Jenoside yakorewe Abatutsi mu Rwanda mu 1994 iragira iti ""Kwibuka Jenoside yakorewe Abatutsi, turwanya ingengabitekerezo ya Jenoside.""
+Guverineri Munyantwari yifatanya n'abaturage ba Cyahinda mu kwibuka ku nshuro ya 22 Jenoside yakorewe Abatutsi.",0.64
+kin_test_00162,"Uwo mugore ariko ntiyagize amahirwe yo kuhasanga umuyobozi w'akarere wungirije ushinzwe imibereho myiza, kuko yari yagiye mu yindi mirimo mu karere ka Rutsiro akayivamo bwije.
+Umuyobozi w'Akarere ka Gicumbi wungirije ushinzwe imibereho myiza Therese Mujawamariya yasabye iyo miryango yahawe inka kuzifashisha bivana mu mirire mibi, birinda kugurisha amata yazo.",0.29
+kin_test_00163,"Minisitiri w’Ubuzima, Dr Diane Gashumba, yashimye abo babyeyi kubera igitekerezo bagize cyo kwishyira hamwe kuko bituma buri wese atigunga ngo yihererane ikibazo.
+Minisitiri w’Ubuzima, Dr Diane Gashumba, avuga ko kwica abo ushinzwe kuvura ari igikorwa kigayitse kidakwiye umuganga.",0.57
+kin_test_00164,"Karega: Amayeri ya Kayumba Nyamwasa na bagenzi be Ambasaderi Vincent Karega
+Cedric yerekeje mu ikipe iterwa inkunga n'Ingoro Ndangamateka ya Cristiano Ronalo, CR7 Museum",0.09
+kin_test_00165,"Icyo abanyamadini babivugaho Umuvugizi wungirije w'Itorero rya ADEPR, Bishop Tom Rwagasana yavuze ko batanga gushyingirana n'andi matorero.
+Bishop Sibomana Jean wahoze ari Umuvugizi mukuru wa ADEPR Bishop Tom Rwagasana wahoze ari Umuvugizi wungirije muri ADEPR",0.72
+kin_test_00166,"Manager wa Igisupusupu yigeze kubwira UKWEZI ko kugira ngo Nsengiyumva Francois age gucuranga mu gitaramo uwagiteguye asabwa kwishyura amafaranga y’ u Rwanda ibihumbi
+Nsengiyumva Francois yabwiye UKWEZI ko ari tayari kujya gucurangira abagororwa, gusa icyo kuba gucuranga yarabyigiye muri gereza yanze kugira icyo abivugaho ahita akupa telefone.",0.53
+kin_test_00167,"Irumva Faraja yavuze ko yahisemo gutanga umusanzu mu Kigega Agaciro nk’ishimwe ry’ibyo igihugu kimaze kumugezaho.
+Yagize ati “Natekereje gutanga umusanzu wo gushyigira igihugu cyanjye binyuze mu Kigega Agaciro mu rwego rwo gushima.",0.78
+kin_test_00168,"Ku baba bafite imitekerereze nk’iyi Gitwaza yavuze ko abantu bagomba gukaza cyane gusenga ariko bikajyana no kwirinda no kumvira leta.
+Igihe cyo kwirinda ibihuha Mu butumwa burebure Gitwaza yavuze ko abantu bagomba kwirinda ibihuha bitangazwa n’abantu batizewe ahubwo bagakurikira amakuru atangwa n’ibitangazamakuru byemewe.",0.56
+kin_test_00169,"Amasoko n’amaduka y’ubucuruzi bizakomeza gufunga, kereka ahacururizwa ibiribwa, imiti (za farumasi), ibikoresho by’isuku, ibikomoka kuri peteroli n’ibindi bikoresho by’ibanze. i.
+Amasoko n’amaduka birafunzwe keretse abacuruza ibiribwa, ibikoresho by’isuku, za farumasi, lisansi na mazutu n’ibindi bikoresho by’ibanze.",0.88
+kin_test_00170,"Urubyiruko rwo mu karere ka Burera rwakoze urugendo mu rwego rwo kwibuka abazize Jenoside yakorewe abatutsi mu Rwanda.
+Dipite Nyiramadirida Fortuné yashimye urubyiruko rwo mu karere ka Burera kuba rwakoze urugendo rwo kwibuka abazize Jenoside yakorewe Abatutsi.",0.69
+kin_test_00171,"Bakabigereranya na Nyombeli, kuko yagiye i Bugesera guhesha u Rwanda ishema, yamara gutsinda ntarugarukemo kubera ibintu Nsoro yamuzigazigishije, akaba atyo interagahinda mu Rwanda.
+Bukeye u Rwanda rumaze gutsinda u Bugesera , Muganza aracika acikira I Burundi.",0.32
+kin_test_00172,"Kamikazi Rurangirwa Nadege ari mu bahatanira ikamba rya Nyampinga w’u Rwanda 2020 (Ifoto: Miss Rwanda) Ikibazo cy’abana bavukana ubumuga n’ubusembwa kirakomeye mu Rwanda.
+Kamikazi Rurangirwa Nadege ari mu mwiherero i Nyamata hamwe n’abandi bakobwa bagenzi be aho bitegura guhatanira ikamba rya Miss Rwanda.",0.84
+kin_test_00173,"Dr Niyomugabo, Umunyamakuru wa RBA hagati na Dr Vuningoma mu kiganiro
+Dr.Théobald Hategekimana, Umuyobozi w'Ibitaro bya Kaminuza bya Kigali",0.22
+kin_test_00174,"Ni amatora ateganyijwe kuri uyu wa Gatandatu tariki 24 Ukwakira 2020 guhera saa tatu za mu gitondo kuri Lemigo Hotel.
+Ingingo ya 16 ivuga ko aya mabwiriza afite agaciro guhera tariki 22 Ukwakira 2020 kugeza igihe amatora azaba arangiye.",0.28
+kin_test_00175,"Umuryango ""Les Fraternelles Zirikana"" ugizwe n'urubyiruko rusaga 130 rwo mu Karere ka Nyaruguru, rwarokotse Jenoside yakorewe Abatutsi mu Rwanda mu
+No mu Rwanda ngo ba ruharwa barakidegembya Abarokokeye Jenoside yakorewe Abatutsi mu Murenge wa Nyarugenge mu Karere ka Nyarugenge, bahangayikishijwe no kubona ba ruharwa bidegembya.",0.31
+kin_test_00176,"Ati “Mu by’ukuri umwana uje ku ishuri ntabwo aba aje gukorera amafaranga aba aje kwiga.
+“Ntabwo umuntu uza kwiga muri TVET [amashuri y’imyuga n’ubumenyingiro] aza gukorera amafaranga aba aje kwiga.",0.72
+kin_test_00177,"Mushikiwabo umaze imyaka icyenda ayobora Minisiteri y’Ububanyi n’Amahanga y’u Rwanda, aheruka gutangaza ko yifitiye icyizere cyo kwegukana intsinzi.
+Jeune Afrique: Mu myaka icyenda umaze muri Minisiteri y’Ububanyi n’Amahanga ni iki dipolomasi y’u Rwanda yagezeho?",0.56
+kin_test_00178,"Hyundai IONIQ 5 Iyi ni yo iri ku rwego rwo hasi muri eshatu zakozwe, biteganyijwe ko izashyirwa ku isoko mu ntangiriro za
+Amakuru yimbitse kuri izi modoka biteganyijwe ko Hyundai izayashyira ahagaragara muri Gashyantare 2021, ubwo IONIQ 5 izaba ishyirwa ku isoko byeruye.",0.78
+kin_test_00179,"Ubuyobozi butegura Miss Supranational bwemeje Miss Akiwacu Colombe w'imyaka 22 y'amavuko ko ari we uzahagararira u Rwanda muri aya marushanwa azabera muri Pologne.
+Miss Akiwacu Colombe azaserukira u Rwanda muri Miss Supranational",0.78
+kin_test_00180,"Mbabazi Francois Xavier umuyobozi w'akarere ka Ruhango, avuga Leta izakomeza kuba hafi y'abarokotse ibafasha gukomeza kwiyubaka, kugira ngo badaheranwa n'agahinda k'ababo bishwe na Jenoside.
+Umuyobozi w'akarere ka Ruhango, Mbabazi Francois Xavier, ni umwe mu bahanuye abakoresha ibiyobya bwenge kubireka, ariko atunga abayobozi binzego z'ibanze kugira uruhare mu ikoreshwa rw'ibiyobyabwenge.",0.62
+kin_test_00181,"Hari kandi batatu (3) babonetse i Rusizi, abandi babiri (2) babonetse muri Ngoma.
+Hari kandi batanu (5) babonetse i Rusizi, batatu (3) babonetse i Nyamasheke, i Kirehe habonetse umuntu umwe (1) n’undi umwe (1) wabonetse i Nyagatare.",0.5
+kin_test_00182,"Nashimira abakinnyi kuko bagerageje kugendana n’uburyo bushya bw’umukino , detse na Rwanda Book Mobile yaduteye inkunga kugira ngo iyi mikino igende neza”.
+Umukozi wa Rwanda book Mobile ushinzwe ibikorwa byo gusoma, Mahirwe Pacifique, avuga ko bateye inkunga imikino ya Olympiad 2020 kugira ngo bakundishe abana gusoma.",0.71
+kin_test_00183,"Ibi bibabaza abagabo cyane ndetse ni bimwe mu bituma abagabo benshi bajya gushaka abandi bagore babemerera gukoresha uburyo bishimira.
+Kutazana amavangingo ni ingingo ituma abagabo benshi cyane baca inyuma abagore babo bakajya gushaka abandi bafite ayo mavangingo.",0.41
+kin_test_00184,"Minisitiri w'Imari n'igenamigambi Amb Claver Gatete na we yemeje ko amafaranga yatanzwe kandi anasezeranya ko icyo kibazo kitazongera kugaruka mu mwaka wa
+Minisitiri w'Imari n'Igenamigambi Claver Gatete Ibi yabitangarije mu kiganiro ku cyerekerezo 2050 yatangiye mu nama y'umushyikirano.",0.61
+kin_test_00185,"Rwanda Kigali Convention Center ni inyubako iri hafi kuzura ku Kimihurura, ifite umwihariko mu nyubako zose zigenda zizamuka mu Murwa Mukuru wa Kigali.
+Umwihariko wa Rwanda Kigali Convention Center uboneka utyo dore ko hirya no hino ku isi uhasanga inyubako z'akataraboneka zifite izina rya Convention Center.",0.72
+kin_test_00186,"New Life Children's choir bitwaje idarapo ry'u Rwanda
+Mark Stevens n'Umuryango we ni bo batangije sosiyete ya Trevo",0.09
+kin_test_00187,"Apotre Nkurunziza Francois uyobora itorero Bethel mu Rwanda
+Mark Zuckerberg uyobora Facebook yaganiriye na Papa Francis uko bafasha abakene [email protected]",0.22
+kin_test_00188,"Uyu rutahizamu uje utunguranye,yasinyiye Rayon Sports kuri uyu wa Gatanu amasezerano y’imyaka 2 ndetse agiye kwiyongera ku bandi iyi kipe iherutse gusinyisha mu kwezi gushize.
+Umuyobozi mushya wa Rayon Sports yijeje abafana bayo ko ibihe by’agahinda n’ibibazo birangiye ubu agiye kubazanira ibyishimo ndetse agaha iyi kipe indangagaciro nshya.",0.5
+kin_test_00189,"Pastor Johnson umuyobozi wa ACT Pastor Johnson hamwe na Pastor Isaie Sezeye bo muri ACT Foto: Moses Niyonzima
+Inkuru bifitanye isano: U Bubiligi: Umwana yishwe nyuma yo kubyisabira Umubare w'abasaba guhuhurwa mu Bubiligi wariyongereye",0.16
+kin_test_00190,"Uzwi cyane ni Chloroquine, Ishami ry’Umuryango w’Abibumbye ryita ku Buzima (OMS) ukaba Umuryango mpuzamahanga ushinzwe iby’ubuzima wamaze guhagarika ubushakashatsi bwakorwaga kuri uwo muti.
+Wemejwe n’Ishami ry’Umuryango w’Abibumbye ryita ku Buzima (OMS) mu 2015, ko ukora neza mu kurinda abantu kwandura HIV ndetse no kugabanya ubukana ku bayisangaywe.",0.39
+kin_test_00191,"Ariko zibasaba kujya batangira amakuru ku gihe kugira ngo barindwe abaza kubihimuraho.
+Vandama Victor, arasaba abaturage baturiye umupaka kujya batangira amakuru ku gihe kugira ngo abanyereza imisoro n'amahoro bya Leta batabwe muri yombi.",0.22
+kin_test_00192,"Abatanga serivisi za Mobile Money, Tigo Cash na Airtel Money bagomba gukora ibishoboka byose ntihagire uwundi uwumenya; kandi uwibwe akwiriye kubimenyesha Polisi mu maguru mashya.""
+Gaga yakomeje avuga ko batangije uburyo bwo guhuza serivisi za Mobile Money, Tigo Cash na Airtel Money n'amabanki hakoreshejwe umuyoboro bise eHuriro.",0.56
+kin_test_00193,"Ingoro y'Umubyeyi Bikira Mariya yubatse I Crete Congo isurwa (...)
+Ingoro y'Umubyeyi Bikira Mariya yubatse I Crete Congo isurwa cyane n'abiganjemo abakirisitu gaturika, bakayikoreramo amasengesho, bamwe bagakaraba aya mazi y'umugisha abantu bakayanywa.",0.66
+kin_test_00194,"Polisi y'u Rwanda kandi yatangaje ko iri gukorana bya hafi n'imiryango y'ababuze ababo kugira ngo ibahe ubufasha bwose bushoboka.
+Ati:""Leta y'u Rwanda na yo yongeye kwizeza abafite ubumuga ko izakomeza kubaha ubufasha bwose bushoboka.",0.36
+kin_test_00195,"Mukankundiye Jacqueline yiyubakiye inzu abikesha ubucuruzi bw'ibirere Umutwaro umwe w'ibirere awugurisha amafaranga 500 Abacuruzi b'inyanya nibo bakiriya be b'imena
+Gusa asobanura ko byose biterwa n'ukwizera kw'umuntu ku giti cye. [email protected]",0.22
+kin_test_00196,"Muri urwo rugendo urubyiruko rwibukijwe ko Jenoside yakorewe abatutsi yateguwe.
+Muri urwo rugendo rwakozwe rugana ku rwibutso rwa Rugarama, rushyinguyemo imibiri 16 y'abazize Jenoside, urubyiruko rwasobanuriwe byinshi kuri Jenoside yakorewe abatutsi.",0.81
+kin_test_00197,"Impamvu nyamukuru, ni uko kiriya gihugu kiyoborwa na Macron, gikomeje kwitwikira isura y’ubutabera kigashaka kujujubya abayobozi bakuru b’u Rwanda ngo kibashinje uruhare muri Jenoside.
+U Rwanda rurarambiwe Mu bihe bitandukanye abayobozi bakuru b’u Rwanda bakomeje gusobanura ko iri perereza ndetse n’ibindi bigamije gusibanganya uruhare rw’u Bufaransa muri Jenoside.",0.66
+kin_test_00198,"Yakomeje agira ati:"" Ndishimye cyane ndihanganisha abantu ba Barcelone batari hano ariko ntibyumvikana, simbyumva, si ku nshuro ya mbere ariko ni ubwa mbere kuri ibi.
+Yakomeje agira ati “Naje guhitamo umukino wo gusimbuka Urukiramende, ariko mbijyamo ari ukwikinira bisanzwe kuko bwari ubwa mbere mbikoze, hari muri",0.31
+kin_test_00199,"Iri shyaka rikinjira mu ruhando rwa Politiki ryifatanyije n’indi mitwe ya politiki yarwanyaga ubutegetsi bw’igitugu bwateguye bukanashyira mu bikorwa Jenoside yakorewe Abatutsi muri Mata
+Mu gitabo cye ""Geneurs de survivants"", umubirigikazi Dominique Celis ngo agamije kurwanya abahakana Jenoside yakorewe abatutsi muri Mata",0.25
+kin_test_00200,"Iyo gusenya cyangwa konona ku bushake byateje ubumuga budakira, ukoze icyaha ahanishwa igifungo kuva ku myaka cumi n'itanu (15) kugeza ku myaka makumyabiri (20).
+Iyo gusenya cyangwa konona ku bushake byateje urupfu rw'umuntu cyangwa rw'abantu benshi, igihano kiba igifungo cya burundu.",0.56
+kin_test_00201,"Adrien Misigaro yamenyakanye mu ndirimbo nka ’Ntacyo Nzaba’ yafatanyije na Meddy, ’Twarahuye’, ’ Nkwite nde’ yafatanyije na The Ben n’izindi nyinshi.
+Gentil Misigaro uzwi ku izina ry’ubuhanzi rya Gentil Mis yamenyakanye cyane mu ndirimbo Hari Imbaraga, Buri munsi na Hano ku isi yafatanyije na Adrien Misigaro.",0.19
+kin_test_00202,"Ijambo ry'Imana muritegurirwa na Rejoice Africa Ministries.
+Hari icyo wifuza kutubwira ku ijambo ry'Imana usomye twandikire kuri Email yacu: [email protected] Ijambo ry'Imana muritegurirwa na Rejoice Ministries.",0.59
+kin_test_00203,"Muri MININTER Bwana TOTO WA MUGENZA Emmanuel: Umuyobozi w'Ishami rishinzwe igenamigambi, ikurikirana n'Isuzumabikorwa/Director of Planning Monitoring and Evaluation Unit.
+Madamu UTAMULIZA Marie Chantal: Umuyobozi w'Ishami rishinzwe Ubutegetsi n'Imari/Director of Administration and Finance Unit.",0.18
+kin_test_00204,"Afurika si wo mugabane wibasirwa gusa Umunyamabanga wa Leta muri Minisiteri y’Ubuzima ushinzwe Ubuzima rusange, Dr.
+Germaine Kamayirese Umunyamabanga wa Leta muri Minisiteri y'Imari n'Igenamigambi ushinzwe Igenamigambi, Dr.",0.25
+kin_test_00205,"Urwego rw’ubukungu urugo rugezeho (Classe sociale), ubukire cyangwa se ubukene nabyo biri mu bintu bigira uruhare mu buryo urugo rubayeho.
+Gabanya inzoga Kimwe n'ibyo kurya, ibyo umuntu anywa nabyo bigira uruhare mu gutuma ibinure byo ku nda byiyongera cyangwa se bikagabanuka.",0.25
+kin_test_00206,"Rayon Sports yanganyije na Espoir FC - AMAFOTO Rayon Sports yanganyije na Espoir FC 0-0 mu mukino wo ku munsi wa 10 wa Shampiyona.
+Bugesera FC ya 10 n’amanota 11, izagaruka mu kibuga ku Cyumweru, yakira Espoir FC mu mukino w’umunsi wa 11 wa Shampiyona.",0.44
+kin_test_00207,"Umukino wa shampiyona uzahuza Rayon Sports na Gasogi United uzaba kuwa 02 Ukwakira 2019,uzabera kuri stade ya Kigali I Nyamirambo.
+KNC yemeje ko Gasogi United izatsinda Rayon Sports ku munsi wa mbere wa shampiyona",0.88
+kin_test_00208,"Isuku nke yo mu kanwa, ishobora gutuma bagiteri ziba nyinshi zikaba zatera kunuka mu kanwa.
+Bagiteri ziba mu kanwa zishobora kwiyongera zigatangira gutungwa na proteyine ziboneka mu macandwe cg ibisigazwa by’ibyo wariye, zikaba zatera kunuka nabi.",0.86
+kin_test_00209,"Umuntu ashobora kandi kwanduzwa no gukora ku nyamaswa zirwaye cyangwa zapfuye zifite iyo ndwara, cyane cyane uducurama, inkende n’izindi.
+Icyo umuntu akwiye kwitondera kandi ni uko umuntu ashobora kugera ku rwego rwo kuva cyane cyangwa se ‘hemoragie’, kandi atigeze agaragaza ibi bimenyetso.",0.25
+kin_test_00210,"Akomeza agira inama urundi rubyiruko rwarokotse Jenoside yakorewe Abatutsi rutarabasha kwiyubaka kwirinda gutukisha imiryango yabo.
+Ni igitekerezo Ambasaderi Habineza avuga ko yagize hambere aha, ubwo yari yagiye gutanga ikiganiro ku rubyiruko rwarokotse Jenoside yakorewe Abatutsi i Huye, mu Ntara y'Amajyepfo.",0.53
+kin_test_00211,"Ikipe y’ingabo izagaruka mu kibuga ku Cyumweru, yakira Bugesera FC mu mukino uzabera kuri Stade ya Kigali i Nyamirambo.
+Ni umukino uzabera kuri Stade ya Kigali i Nyamirambo.",0.56
+kin_test_00212,"Yakomeje avuga ko ari uburyo bwafasha no mu Rwanda mu kongera guhuza abantu nyuma y’imyaka 26 Jenoside yakorewe Abatutsi ibaye.
+Ati “Nyuma y’imyaka 26 Jenoside yakorewe Abatutsi mu Rwanda ihagaritswe, abantu bashobora kongera guhuzwa na siporo, umuco n’ubugeni kugira ngo bakire ibikomere.”",0.72
+kin_test_00213,"Ni igikorwa cyabereye mu Karere ka Rubavu kirangwa n’urugendo rwo kuzirikana abazize Jenoside yakorewe Abatutsi mu mujyi wa Gisenyi.
+Iyi mibiri ibonetse mu gihe hari abarokotse Jenoside yakorewe Abatutsi mu Karere ka Rubavu bakomeje kubura ababo bishwe.",0.79
+kin_test_00214,"Penaliti ya kabiri ya AS Kigali yatewe na Benedata Janvier ayinjiza neza mu izamu rya Rayon Sports.
+Penaliti ya kabiri ya Rayon Sports yatewe na Bukuru Christophe ayitera mu maboko y’ umuzamu wa AS Kigali arayifata.",0.34
+kin_test_00215,"Ikipe y'u Rwanda yakunze kwitwara neza mu mikino y'akarere ka gatanu.
+Ikipe y'u Rwanda yegukanye umudali wa Feza muri iri siganwa Ikipe y'u Rwanda yiteguye kurushaho kwitwara neza",0.66
+kin_test_00216,"Ibi bisobanuro byatanzwe n'Inteko Nyarwanda y'Ururimi n'Umuco RALC
+Sharijeri ya telefone ikoresha imirasire y'izuba Iyi sharijeri ishobora kwimukanwa kubera amapine [email protected]",0.28
+kin_test_00217,"Nshimiyimana Maurice Maso yahoze ari umutoza wungirije muri Rayon Sports umwaka ushize ubwo yegukanaga igikombe cya Shampiyona ariko nyuma aza gusezererwa.
+Mateso Jean de Dieu umwungirije yatoje AS Kigali ari umutoza wungirije aza no kuyihesha igikombe cy’Amahiro cya 2019 atsinze Kiyovu Sports ibitego 2-",0.38
+kin_test_00218,"Ibi yabivugiye mu nama mpuzamahanga yiga ku mutekano iteraniye i Munich mu Budage, mu kiganiro yatanze kuri uyu wa 18 Gashyantare
+Iyi nama mpuzamahanga yiga ku umutekano ibera i Munich (Munich Security Conference) irimo kuba ku nshuro ya",0.88
+kin_test_00219,"Abo barimo: Umwiru wo kwa Rutsobe: Nibo bari bafite n’uburenganzira bwo gutanga abatabazi “Bamenaga amaraso yabo “ kugira ngo u Rwanda rwigarurire amahanga.
+Ibanga ry’Umucengeri wamenaga amaraso ye kugira ngo u Rwanda rwigarurire amahanga.",0.59
+kin_test_00220,"Minisitiri w’Intebe Murekezi Anastase muri iki gitondo ari gushyikiriza imitiwe yombi y’Inteko ishinga Amategeko gahunda ya Guverinoma nshya ibyumweru bibiri ishyizweho na Perezida Paul KAGAME.
+Uyu mushinga w’itegeko wemejwe n’imitwe yombi y’Inteko Ishinga Amategeko y’iki gihugu, mbere y’uko ushyirwaho umukono na Perezida w’u Buhinde ugahinduka itegeko.",0.44
+kin_test_00221,"Uyu mukino u Rwanda rushakamo amanota atatu yarwo ya mbere urabera kuri Kenyatta Stadium in Machakos saa 13h
+Mu mukino wa mbere u Rwanda rwatsinze Kenya amanota 14-4, gusa rutsindwa na Misiri ibarusha cyane mu mukino wa kabiri batsinzwe amanota 10-",0.38
+kin_test_00222,"Ni icyerekezo cya 29, RwandAir igiye kwerekezamo nyuma y’urugendo iheruka gutangiza ku wa 18 Kamena 2019, ruhuza Kigali n’Umujyi wa Guangzhou mu Bushinwa.
+Urugendo rwa Kigali- Tel Aviv ruje nyuma y’icyumweru kimwe [ku wa 18 Kamena 2019], RwandAir itangije urwerekeza mu Bushinwa.",0.47
