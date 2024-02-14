@@ -7,6 +7,22 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 [Shared Task Starter Kit](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#shared-task-starter-kit) | 
 [Citing This Work](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work)
 
+## [Paper-- SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages](https://arxiv.org/abs/2402.08638)
+If you use our data, please cite our paper:
+
+    @misc{ousidhoum2024semrel2024,
+    title={SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages}, 
+      author={Nedjma Ousidhoum and Shamsuddeen Hassan Muhammad and Mohamed Abdalla and Idris Abdulmumin and Ibrahim Said Ahmad and Sanchit Ahuja and Alham Fikri Aji and Vladimir Araujo and Abinew Ali Ayele and Pavan                Baswani and Meriem Beloucif and Chris Biemann and Sofia Bourhim and Christine De Kock and Genet Shanko Dekebo and Oumaima Hourrane and Gopichand Kanumolu and Lokesh Madasu and Samuel Rutunda and Manish                Shrivastava and Thamar Solorio and Nirmal Surange and Hailegnaw Getaneh Tilaye and Krishnapriya Vishnubhotla and Genta Winata and Seid Muhie Yimam and Saif M. Mohammad},
+      year={2024},
+      eprint={2402.08638},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+    }
+
+
+
+The annotation guidelines are available here. (The PDF named SemRel Annotation guidelines.)
+
 ## Dataset
 
 The STR dataset is available in the data folder or can be downloaded from Hugging Face (coming soon).
@@ -23,18 +39,18 @@ The STR task focuses on the following 14 languages:
 
 1. Afrikaans (_afr_ released)
 2. Algerian Arabic (_arq_ released)
-4. Amharic (_amh_ released)
-5. English (_eng_ released)
-6. Hausa (_hau_ released)
-7. Indonesian (_ind_ released)
-8. Hindi (_hin_ released)
-9. Kinyarwanda (_kin_ released)
-10. Marathi (_mar_ released)
-11. Modern Standard Arabic (_arb_ released)
-12. Moroccan Arabic (_ary_ released)
-13. Punjabi (_pan_ released)
-14. Spanish (_esp_ released)
-15. Telugu (_tel_ released)
+3. Amharic (_amh_ released)
+4. English (_eng_ released)
+5. Hausa (_hau_ released)
+6. Indonesian (_ind_ released)
+7. Hindi (_hin_ released)
+8. Kinyarwanda (_kin_ released)
+9. Marathi (_mar_ released)
+10. Modern Standard Arabic (_arb_ released)
+11. Moroccan Arabic (_ary_ released)
+12. Punjabi (_pan_ released)
+13. Spanish (_esp_ released)
+14. Telugu (_tel_ released)
 
 ## Shared Task Starter Kit
 
@@ -49,14 +65,6 @@ To run the Colab Notebook, click the badge "Open in Colab".
 
 
 ## SemRel Task Baseline 
-
-
-
-
-
-## Citing This Work
-
-If you use our dataset or participate in the STR task, please cite the following papers:
 
 - STR dataset paper: coming soon 
 - STR SemEval task description paper: coming soon 
