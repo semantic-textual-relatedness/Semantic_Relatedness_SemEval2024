@@ -23,6 +23,9 @@ If you use our data, please cite our paper:
 
 The annotation guidelines are available here. (The PDF named SemRel Annotation guidelines.)
 
+Check the SemRel Baseline Folder for details about the [baseline experiment.](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/semrel_baselines) 
+
+
 ## Dataset
 
 The STR dataset is available in the data folder or can be downloaded from Hugging Face (coming soon).
@@ -64,7 +67,7 @@ To run the Colab Notebook, click the badge "Open in Colab".
 </a>
 
 
-## SemRel Task Baseline 
+## SemRel Related Papers.
 
 - [STR dataset paper](https://arxiv.org/abs/2402.08638)
 - STR SemEval task description paper: coming soon 
