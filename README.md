@@ -7,7 +7,6 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 [Shared Task Starter Kit](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#shared-task-starter-kit) | 
 [Citing This Work](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work)
 
-## [Paper-- SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages](https://arxiv.org/abs/2402.08638)
 If you use our data, please cite our papers:
 
     @misc{ousidhoum2024semrel2024,
