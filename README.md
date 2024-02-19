@@ -8,7 +8,7 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 [Citing This Work](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work)
 
 ## [Paper-- SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages](https://arxiv.org/abs/2402.08638)
-If you use our data, please cite our paper:
+If you use our data, please cite our papers:
 
     @misc{ousidhoum2024semrel2024,
     title={SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages}, 
@@ -19,7 +19,12 @@ If you use our data, please cite our paper:
       primaryClass={cs.CL}
     }
 
-
+    
+    @inproceedings{semrel2024task,
+    title="{S}em{E}val-2024 Task 1: Semantic Textual Relatedness",
+    author="Nedjma Ousidhoum, Shamsuddeen Hassan Muhammad, Mohamed Abdalla, Idris Abdulmumin, Ibrahim Said Ahmad, Sanchit Ahuja, Alham Fikri Aji, Vladimir Araujo, Meriem Beloucif, Christine De Kock, Oumaima Hourrane,      Manish Shrivastava, Thamar Solorio, Nirmal Surange, Krishnapriya Vishnubhotla, Seid Muhie Yimam, Saif M. Mohammad", booktitle="Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)",
+    year="2024" 
+     }
 
 The annotation guidelines are available here. (The PDF named SemRel Annotation guidelines.)
 
