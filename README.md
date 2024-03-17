@@ -22,7 +22,7 @@ Seid Muhie Yimam and Saif M. Mohammad},
       eprint={2402.08638},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
-    }
+}
 
 @inproceedings{ousidhoum-etal-2024-semeval, 
 title = "{S}em{E}val-2024 Task 1: Semantic Textual Relatedness",
