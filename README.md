@@ -8,8 +8,8 @@ This repository contains the data and resources for the SemEval 2024 Task 1: Sem
 [Citing This Work](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024#citing-this-work)
 
 If you use our data, please cite our papers:
-`
-    @misc{ousidhoum2024semrel2024,
+
+```    @misc{ousidhoum2024semrel2024,
     title={SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages}, 
       author={Nedjma Ousidhoum and Shamsuddeen Hassan Muhammad and Mohamed Abdalla and Idris Abdulmumin and Ibrahim Said Ahmad and Sanchit Ahuja and Alham Fikri Aji and Vladimir Araujo and Abinew Ali Ayele and Pavan                Baswani and Meriem Beloucif and Chris Biemann and Sofia Bourhim and Christine De Kock and Genet Shanko Dekebo and Oumaima Hourrane and Gopichand Kanumolu and Lokesh Madasu and Samuel Rutunda and Manish                Shrivastava and Thamar Solorio and Nirmal Surange and Hailegnaw Getaneh Tilaye and Krishnapriya Vishnubhotla and Genta Winata and Seid Muhie Yimam and Saif M. Mohammad},
       year={2024},
@@ -21,9 +21,8 @@ If you use our data, please cite our papers:
 @inproceedings{ousidhoum-etal-2024-semeval, 
 title = "{S}em{E}val-2024 Task 1: Semantic Textual Relatedness", author = "Ousidhoum, Nedjma and Muhammad, Shamsuddeen Hassan and Abdalla, Mohamed and Abdulmumin, Idris and Ahmad, Ibrahim Said and Ahuja, Sanchit and Aji, Alham Fikri and Araujo, Vladimir and     Beloucif, Meriem and De Kock, Christine and Hourrane, Oumaima and Shrivastava, Manish and Solorio, Thamar and Surange, Nirmal and Vishnubhotla, Krishnapriya and Yimam, Seid Muhie and Mohammad, Saif M.", booktitle = "Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)", year = "2024", publisher = "Association for Computational Linguistics"
 }
-`
 
-
+```
 
 The annotation guidelines are available here. (The PDF named SemRel Annotation guidelines.)
 
