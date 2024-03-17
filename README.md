@@ -18,12 +18,10 @@ If you use our data, please cite our papers:
       primaryClass={cs.CL}
     }
 
-    
-    @inproceedings{semrel2024task,
-    title="{S}em{E}val-2024 Task 1: Semantic Textual Relatedness",
-    author="Nedjma Ousidhoum, Shamsuddeen Hassan Muhammad, Mohamed Abdalla, Idris Abdulmumin, Ibrahim Said Ahmad, Sanchit Ahuja, Alham Fikri Aji, Vladimir Araujo, Meriem Beloucif, Christine De Kock, Oumaima Hourrane,      Manish Shrivastava, Thamar Solorio, Nirmal Surange, Krishnapriya Vishnubhotla, Seid Muhie Yimam, Saif M. Mohammad", booktitle="Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)",
-    year="2024" 
-     }
+
+    @inproceedings{ousidhoum-etal-2024-semeval, title = "{S}em{E}val-2024 Task 1: Semantic Textual Relatedness", author = "Ousidhoum, Nedjma and Muhammad, Shamsuddeen Hassan and Abdalla, Mohamed and Abdulmumin, Idris and Ahmad, Ibrahim Said and Ahuja, Sanchit and Aji, Alham Fikri and Araujo, Vladimir and     Beloucif, Meriem and De Kock, Christine and Hourrane, Oumaima and Shrivastava, Manish and Solorio, Thamar and Surange, Nirmal and Vishnubhotla, Krishnapriya and Yimam, Seid Muhie and Mohammad, Saif M.", booktitle = "Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)", year = "2024", publisher = "Association for Computational Linguistics"} 
+
+
 
 The annotation guidelines are available here. (The PDF named SemRel Annotation guidelines.)
 
