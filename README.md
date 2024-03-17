@@ -12,7 +12,12 @@ If you use our data, please cite our papers:
 ```bibtex
 @misc{ousidhoum2024semrel2024,
 title={SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages}, 
-author={Nedjma Ousidhoum and Shamsuddeen Hassan Muhammad and Mohamed Abdalla and Idris Abdulmumin and Ibrahim Said Ahmad and Sanchit Ahuja and Alham Fikri Aji and Vladimir Araujo and Abinew Ali Ayele and Pavan Baswani and Meriem Beloucif and Chris Biemann and Sofia Bourhim and Christine De Kock and Genet Shanko Dekebo and Oumaima Hourrane and Gopichand Kanumolu and Lokesh Madasu and Samuel Rutunda and Manish Shrivastava and Thamar Solorio and Nirmal Surange and Hailegnaw Getaneh Tilaye and Krishnapriya Vishnubhotla and Genta Winata and Seid Muhie Yimam and Saif M. Mohammad},
+author={Nedjma Ousidhoum and Shamsuddeen Hassan Muhammad and Mohamed Abdalla and Idris Abdulmumin and Ibrahim Said Ahmad and
+Sanchit Ahuja and Alham Fikri Aji and Vladimir Araujo and Abinew Ali Ayele and Pavan Baswani and Meriem Beloucif and
+Chris Biemann and Sofia Bourhim and Christine De Kock and Genet Shanko Dekebo and
+Oumaima Hourrane and Gopichand Kanumolu and Lokesh Madasu and Samuel Rutunda and Manish Shrivastava and
+Thamar Solorio and Nirmal Surange and Hailegnaw Getaneh Tilaye and Krishnapriya Vishnubhotla and Genta Winata and
+Seid Muhie Yimam and Saif M. Mohammad},
       year={2024},
       eprint={2402.08638},
       archivePrefix={arXiv},
