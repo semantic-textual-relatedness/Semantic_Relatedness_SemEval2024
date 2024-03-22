@@ -25,7 +25,7 @@ Seid Muhie Yimam and Saif M. Mohammad},
 }
 
 @inproceedings{ousidhoum-etal-2024-semeval, 
-title = "{S}em{E}val-2024 Task 1: Semantic Textual Relatedness",
+title = "{S}em{E}val-2024 Task 1: Semantic Textual Relatedness for African and Asian Languages",
 author = "Ousidhoum, Nedjma and Muhammad, Shamsuddeen Hassan and Abdalla, Mohamed and Abdulmumin, Idris and
 Ahmad,Ibrahim Said and Ahuja, Sanchit and Aji, Alham Fikri and Araujo, Vladimir and     Beloucif, Meriem and
 De Kock, Christine and Hourrane, Oumaima and Shrivastava, Manish and Solorio, Thamar and Surange, Nirmal and
