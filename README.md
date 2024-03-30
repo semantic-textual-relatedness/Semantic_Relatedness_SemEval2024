@@ -42,7 +42,7 @@ Check the SemRel Baseline Folder for details about the [baseline experiment.](ht
 
 ## Dataset
 
-The STR dataset is available in the data folder or can be downloaded from Hugging Face (coming soon).
+The STR dataset is available in the data folder or can be downloaded from [Hugging Face](https://huggingface.co/datasets/SemRel/SemRel2024).
 
 - For Track  A: [TrackA folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20A)
 - For Track  B: [TrackB folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20B)
