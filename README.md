@@ -84,6 +84,5 @@ To run the Colab Notebook, click the badge "Open in Colab".
 ## SemRel Related Papers.
 
 - [STR dataset paper](https://arxiv.org/abs/2402.08638)
-- STR SemEval task description paper: coming soon 
-
+- [STR SemEval task description paper](https://arxiv.org/pdf/2403.18933.pdf)
 
