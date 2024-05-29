@@ -36,17 +36,6 @@ The annotation guidelines are available here. (The PDF named SemRel Annotation g
 Check the SemRel Baseline Folder for details about the [baseline experiment.](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/semrel_baselines) 
 
 
-## Dataset
-
-The STR dataset is available in the data folder or can be downloaded from [Hugging Face](https://huggingface.co/datasets/SemRel/SemRel2024).
-
-- For Track  A: [TrackA folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20A)
-- For Track  B: [TrackB folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20B)
-- For Track  C: [TrackC folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20C)
-
-**Note that the full BWS tuple annotations will be available soon.
-**
-
 ## Languages
 
 The STR task focuses on the following 14 languages:
@@ -66,6 +55,31 @@ The STR task focuses on the following 14 languages:
 12. Punjabi (_pan_ released)
 13. Spanish (_esp_ released)
 14. Telugu (_tel_ released)
+
+## Contact Information 
+If you need additional information about a specific dataset, see below.
+
+- For questions about the Afrikaans dataset, please contact Christine de Kock.
+- For questions about the Algerian Arabic and Modern Standard datasets, please contact Nedjma Ousidhoum and Meriem Beloucif.
+- For questions about the Amharic dataset, please contact Seid Muhie Yimam.
+- For questions about the Moroccan Arabic dataset, please contact Oumaima Hourrane.
+- For questions about the English dataset, please contact Krishnapriya Vishnubhotla, Mohamed Abdalla, and Saif M. Mohammad.
+- For questions about the Hausa and Kinyarwanda datasets, please contact Shamsuddeen Hassan Muhammad, Idris Abdulmumin, and Ibrahim Said Ahmad.
+- For questions about the Hindi, Marathi, and Telugu datasets, please contact Nirmal Surange and Manish Shrivastava.
+- For questions about the Indonesian dataset, please contact Alham Fikri Aji.
+- For questions about the Punjabi dataset, please contact Sanchit Ahuja.
+- For questions about the Spanish dataset, please contact Vladimir Araujo and Thamar Solorio.
+
+## Dataset
+
+The STR dataset is available in the data folder or can be downloaded from [Hugging Face](https://huggingface.co/datasets/SemRel/SemRel2024).
+
+- For Track  A: [TrackA folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20A)
+- For Track  B: [TrackB folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20B)
+- For Track  C: [TrackC folder](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024/tree/main/Track%20C)
+
+**Note that the full BWS tuple annotations cabe found in the BWS folder.**
+
 
 ## Shared Task Starter Kit
 
